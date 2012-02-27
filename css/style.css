@@ -42,6 +42,10 @@ nav li a {
 .content {
   padding: 10px;
 }
+
+#content {
+  clear: both;
+}
  
 ul.entries li {
   position: relative;
