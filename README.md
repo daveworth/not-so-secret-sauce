@@ -1,8 +1,8 @@
 # Not So Secret Sauce
 
 We realized that at [Highgroove](http://highgroove.com), some of the
-documentation we provide to new developers dealing with how to do their jobs
-better wasn't really our "secret sauce."
+documentation we provide to developers that helps them do their jobs better
+wasn't really our "secret sauce."
 
 This repository, and its deployed counterpart at
 <http://not-so-secret-sauce.highgroove.com/> is the result of making that
