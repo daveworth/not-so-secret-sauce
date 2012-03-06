@@ -64,8 +64,3 @@ The site is styled by [Twitter Bootstrap
 ### Adding a New Topic
 
 TODO
-
-## License
-
-[© GNU Free Documentation License Version
-1.3](http://www.gnu.org/copyleft/fdl.html)
