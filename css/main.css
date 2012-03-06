@@ -74,6 +74,10 @@
   }
 }
 
+.content-area {
+  padding-top: 60px;
+}
+
 .footer {
   margin-top: 45px;
   padding: 35px 0 36px;
