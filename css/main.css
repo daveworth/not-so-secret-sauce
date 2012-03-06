@@ -1,5 +1,79 @@
 /* overrides and new styles only */
 
+/* This can be greatly simplified via Compass. Talk to Steven. */
+#github
+{
+  height: 30px;
+  right: -65px;
+  position: absolute;
+  text-decoration: none;
+  top: 40px;
+  width: 250px;
+  z-index: 2000; /* to overcome Twitter-bootstrap */
+
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+#github span
+{
+  background: #073642;
+  color: #839496;
+  font-size: 14px;
+  left: 0;
+  padding: 5px 0;
+  position: absolute;
+  text-align: center;
+  width: 250px;
+
+  -moz-box-shadow: rgba(255,255,255,0.3) 1px 1px 10px;
+  -o-box-shadow: rgba(255,255,255,0.3) 1px 1px 10px;
+  -webkit-box-shadow: rgba(255,255,255,0.3) 1px 1px 10px;
+  box-shadow: rgba(255,255,255,0.3) 1px 1px 10px;
+
+  -moz-transition: opacity 1s;
+  -o-transition: opacity 1s;
+  -webkit-transition: opacity 1s;
+  transition: opacity 1s;
+}
+#github span:last-child
+{
+  background: #0087ff;
+  color: #eee8d5;
+  opacity: 0;
+}
+#github :hover span:first-child
+{
+  opacity: 0;
+}
+#github :hover span:last-child
+{
+  opacity: 1;
+}
+@media all and (-webkit-transform-3d)
+{
+  #github span
+  {
+    opacity: 1 !important;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: -webkit-transform 1s;
+  }
+  #github span:last-child
+  {
+    -webkit-transform: rotateX(180deg);
+  }
+  #github:hover span:first-child
+  {
+    -webkit-transform: rotateX(180deg);
+  }
+  #github:hover span:last-child
+  {
+    -webkit-transform: rotateX(360deg);
+  }
+}
+
 .footer {
   margin-top: 45px;
   padding: 35px 0 36px;
