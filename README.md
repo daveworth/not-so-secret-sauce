@@ -63,4 +63,40 @@ The site is styled by [Twitter Bootstrap
 
 ### Adding a New Topic
 
-TODO
+Create a new markdown file in the `topics/` directory:
+
+    vim topics/my-new-topic.md
+
+You'll want to add the appropriate metadata to the header of your new topic,
+which will probably look similar to this:
+
+```
+---
+layout: topic
+title: Highgroove Code Reviews HowTo
+description: How Highgroovers give back to the open-source community
+---
+```
+
+If you have an image in the topic's page, you may also want to add an
+`image_hint_url` attribute.
+
+Once the header is in place, finish writing your page in Markdown.
+
+Once you're done and ready to integrate your topic into
+the website, add an item to the sidebar in `_layouts/default.html`
+that looks like so:
+
+```
+<li>
+  <a href="/">
+    <i class="icon-book"></i>
+    Home
+  </a>
+</li>
+```
+
+The list of available icons can be found [here](http://twitter.github.com/bootstrap/base-css.html#icons].
+Try to choose one that reflects the navigation item.
+
+Finally, commit your changes and push. GitHub pages will take care of the rest.
