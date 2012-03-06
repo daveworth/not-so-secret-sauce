@@ -5,8 +5,6 @@ description: How Highgroovers give back to the open-source community
 image_hint_url: http://www.flickr.com/photos/sebastian_bergmann/3991540987/
 ---
 
-# Highgroove Code Reviews HowTo
-
 Highgroove team members are tasked with performing Code Reviews every week.
 
 We do these for several reasons:
@@ -45,7 +43,7 @@ It’s easy to create a repository and push remotely to it:
 Create the repository on github (under the highgroove organization).
 add a “remote” to your git repository, by editing the git config (or adding remote): 
 
-<code>
+`
 [remote "origin"]
 fetch = +refs/heads/*:refs/remotes/origin/*
 url = git@github.com:clients-private-repo/project-name.git
@@ -57,14 +55,14 @@ url = git@github.com:highgroove/project-name.git
 [branch "master"]
 remote = origin
 merge = refs/heads/master
-</code>
+`
 
 *or*
 
-<code>
+`
 git remote add highgroove git@github.com:highgroove/project-name.git
 git push
-</code>
+`
 
 You’ll need to ask someone with access to the code to do this for you.
 
@@ -72,4 +70,4 @@ You’ll need to ask someone with access to the code to do this for you.
 
 This command gets all commits by "Will" from 1 week ago:
 
-git log 'master@{1 week ago}'..master --author='Will' --full-diff -p
+`git log 'master@{1 week ago}'..master --author='Will' --full-diff -p`
