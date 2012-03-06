@@ -43,7 +43,8 @@ It’s easy to create a repository and push remotely to it:
 Create the repository on github (under the highgroove organization).
 add a “remote” to your git repository, by editing the git config (or adding remote): 
 
-`
+<pre>
+
 [remote "origin"]
 fetch = +refs/heads/*:refs/remotes/origin/*
 url = git@github.com:clients-private-repo/project-name.git
@@ -55,14 +56,17 @@ url = git@github.com:highgroove/project-name.git
 [branch "master"]
 remote = origin
 merge = refs/heads/master
-`
+
+</pre>
 
 *or*
 
-`
+<pre>
+
 git remote add highgroove git@github.com:highgroove/project-name.git
 git push
-`
+
+</pre>
 
 You’ll need to ask someone with access to the code to do this for you.
 
@@ -70,4 +74,8 @@ You’ll need to ask someone with access to the code to do this for you.
 
 This command gets all commits by "Will" from 1 week ago:
 
-`git log 'master@{1 week ago}'..master --author='Will' --full-diff -p`
+<pre>
+
+git log 'master@{1 week ago}'..master --author='Will' --full-diff -p
+
+</pre>
