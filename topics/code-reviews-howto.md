@@ -79,3 +79,4 @@ This command gets all commits by "Will" from 1 week ago:
 git log 'master@{1 week ago}'..master --author='Will' --full-diff -p
 
 </pre>
+

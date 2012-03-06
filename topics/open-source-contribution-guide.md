@@ -173,3 +173,4 @@ within scope, and easily understandable by the recipient.  Moreover by being
 communicative and available you will find your contributions much more likely to
 be accepted by the project one which you worked, then it's time for an
 [Open-Source adult beverage](http://freebeer.org/blog/)!
+
