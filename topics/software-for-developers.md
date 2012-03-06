@@ -10,7 +10,7 @@ description: What we use to do what we do
 * Mozilla Firefox
 * Skype
 * Apple Developer Tools / XCode
-* [Homebrew]: https://github.com/mxcl/homebrew
+* [Homebrew] (https://github.com/mxcl/homebrew)
 * Git
 * ${SCREENSHOT APP} (e.g., Skitch, Cloudapp, Built in)
 * ${EDITOR} 
