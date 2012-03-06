@@ -96,7 +96,7 @@ that looks like so:
 </li>
 ```
 
-The list of available icons can be found [here](http://twitter.github.com/bootstrap/base-css.html#icons].
+The list of available icons can be found [here](http://twitter.github.com/bootstrap/base-css.html#icons).
 Try to choose one that reflects the navigation item.
 
 Finally, commit your changes and push. GitHub pages will take care of the rest.
