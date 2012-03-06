@@ -48,14 +48,54 @@ correctly to [GitHub Pages](http://pages.github.com).
 As a Highgroover ...
 
 1. Clone the repository
-2. Commit to the `gh-pages` branch
-3. Push changes back up
+2. Make changes (add a topic, touch some styling, etc.)
+3. Commit to the `gh-pages` branch
+4. Push changes back up
 
 As an open source contributor ...
 
 1. [Fork the repository](http://help.github.com/fork-a-repo/)
 2. Branch off of or commit directly to the `gh-pages` branch
 3. [Send a pull request](http://help.github.com/send-pull-requests/)
+
+## Contribution Guidelines
+
+How do we decide what goes on the page?
+
+### Should I add _content_ to this collection?
+
+To decide if a contribution belongs here, or in a blog post, or in a private
+document there are a few questions to be asked:
+
+Does the content give Highgroove, or a contributor's employer/company, a
+business advantage over other companies or does the content simply make the life
+of a developer or other developer better?  In the prior case add the
+documentation to the intranet to keep business rolling.  In the latter case add
+it to this collection.  Over time intranets can and should be reviewed, and
+content can be moved here at your leisure.
+
+Once data is contributed here it should be removed from any private source from
+which it sprang, perhaps with a reference to this collection when it is moved.
+
+### I should add this but there is some private data coupled to it!
+
+If you find you have content, the bulk of which belongs in this collection, but
+has some coupled proprietary (customer-centric, internal businessy) data as well
+sanitize it.  Ask yourself the question "Could this hurt ourselves or our
+customers, even by helping their competitors?" before adding anything here.  If
+there is too much of that type of data see the prior question.
+
+### Style and Markup Guidelines
+
+Following the [Rails API Documentation Guidelines](http://guides.rubyonrails.org/api_documentation_guidelines.html),
+where applicable, makes for good writing as well.  Active voice, brevity, and
+clarity are as important as content.  If there is code inline make sure your
+gist is of the correct language type so that syntax highlighting makes the most
+of your contribution.
+
+In places where content is Highgroove, or contributor, -specific use your best
+judgement in terms of whether or not to name them in the content or omit them by
+replacing their name with a generic pronoun.
 
 ## Site Details
 
