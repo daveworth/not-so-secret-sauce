@@ -65,7 +65,7 @@ The site is styled by [Twitter Bootstrap
 
 Create a new markdown file in the `topics/` directory:
 
-    vim topics/my-new-topic.md
+    rake new title='Your awesome title'
 
 You'll want to add the appropriate metadata to the header of your new topic,
 which will probably look similar to this:
