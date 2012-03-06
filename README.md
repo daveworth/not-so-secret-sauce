@@ -23,14 +23,17 @@ The site is configured to use a gemset; create one and switch to it ...
 ### Jekyll
 
 The site uses the [Jekyll static site
-generator](https://github.com/mojombo/jekyll). Install it as a gem ...
+generator](https://github.com/mojombo/jekyll) installed via bundler.  Install bundler 
+and update your bundle:
 
-    gem install jekyll
+    gem install bundler
+    bundle
+
 
 Run a local version of the site that automatically updates as files are added
 or changed ...
 
-    jekyll --auto --server
+    bundle exec jekyll --auto --server
 
 The site runs by default at <http://localhost:4000/>
 
@@ -58,8 +61,7 @@ As an open source contributor ...
 
 ### Twitter Bootstrap 2.0
 
-The site is styled by [Twitter Bootstrap
-2.0](http://twitter.github.com/bootstrap/).
+The site is styled by [Twitter Bootstrap 2.0](http://twitter.github.com/bootstrap/).
 
 ### Adding a New Topic
 
