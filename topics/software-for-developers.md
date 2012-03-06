@@ -14,8 +14,8 @@ description: What we use to do what we do
 * Git
 * ${SCREENSHOT APP} (e.g., Skitch, Cloudapp, Built in)
 * ${EDITOR} 
-    * MacVim
-    * TextMate (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
+  * MacVim
+  * TextMate (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
 * [rvm] (https://rvm.beginrescueend.com/rvm/install/)
 
 ##Pretty Sweet
@@ -32,12 +32,12 @@ description: What we use to do what we do
 * F.lux
 * Fluid (PivotalTracker, LetsFreckle)
 * Source Control
-    * [GitX](http://gitx.laullon.com/)
-    * [SourceTree](http://www.sourcetreeapp.com/)
-    * [GitHub.app](http://mac.github.com/)
+  * [GitX](http://gitx.laullon.com/)
+  * [SourceTree](http://www.sourcetreeapp.com/)
+  * [GitHub.app](http://mac.github.com/)
 * DB Stuff
-    * [SequelPro](http://www.sequelpro.com/)
-    * [MongoHub](http://mongohub.todayclose.com/)
+  * [SequelPro](http://www.sequelpro.com/)
+  * [MongoHub](http://mongohub.todayclose.com/)
 * Vagrant
 
 ###And Of Course:
