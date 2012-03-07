@@ -12,20 +12,27 @@ description: What we use to do what we do
 * Apple Developer Tools / XCode
 * [Homebrew] (https://github.com/mxcl/homebrew)
 * Git
-* ${SCREENSHOT APP} (e.g., Skitch, Cloudapp, Built in)
-* ${EDITOR} 
+* `$SCREENSHOT_APP`
+  * Skitch
+  * Cloudapp
+* `$EDITOR` 
   * MacVim
   * TextMate (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
-* [rvm] (https://rvm.beginrescueend.com/rvm/install/)
+  * Emacs
+* `$RUBY_MANAGER`
+  * [rvm](https://rvm.beginrescueend.com/rvm/install/)
+  * [rbenv](https://github.com/sstephenson/rbenv)
 
 ##Pretty Sweet
 
-* [Things] (http://culturedcode.com/things/)
-* [Alfred] (http://www.alfredapp.com/) (free Quicksilver replacement + PowerPack)
-* password management ([1Password](https://agilebits.com/onepassword), [KeePassX](http://www.keepassx.org/))
-* [Dropbox] (http://www.dropbox.com/)
-* clipboard mangement (Jumpcut or Clipmenu or Alfred)
-* [Growl] (http://growl.info/)
+* [Things](http://culturedcode.com/things/)
+* [Alfred](http://www.alfredapp.com/)
+* Password Management
+  * [1Password](https://agilebits.com/onepassword)
+  * [KeePassX](http://www.keepassx.org/)
+* [Dropbox](http://www.dropbox.com/)
+* Clipboard mangement (Jumpcut or Clipmenu or Alfred)
+* [Growl](http://growl.info/)
 * [MailPlane](http://mailplaneapp.com/new_index) (or stick to Mail.app)
 * [BusyCal](http://www.busymac.com/) (or stick to iCal)
 * [Caffeine](http://lightheadsw.com/caffeine/)
@@ -35,7 +42,7 @@ description: What we use to do what we do
   * [GitX](http://gitx.laullon.com/)
   * [SourceTree](http://www.sourcetreeapp.com/)
   * [GitHub.app](http://mac.github.com/)
-* DB Stuff
+* Database Utilities
   * [SequelPro](http://www.sequelpro.com/)
   * [MongoHub](http://mongohub.todayclose.com/)
 * Vagrant
