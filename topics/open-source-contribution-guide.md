@@ -5,7 +5,7 @@ description: How Highgroovers give back to the open-source community
 image_hint_url: http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg
 ---
 
-<a href="http://www.flickr.com/photos/saskiavandenieuwenhof/2312329520/" title="Free beer at van Abbe museum by Saskia Heijltjes, on Flickr"><img src="http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg" width="240" height="180" alt="Free beer at van Abbe museum"></a>
+<a href="http://www.flickr.com/photos/saskiavandenieuwenhof/2312329520/" title="Free beer at van Abbe museum by Saskia Heijltjes, on Flickr"><img src="http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg" width="240" height="180" alt="Free beer at van Abbe museum" style="float: right"></a>
 
 Open-Source software makes all of our lives better. It allows us to do our jobs
 without reimplementing the wheel each time. It allows us to understand the nuts
@@ -122,6 +122,21 @@ Examples:
   (for an example, see [ActionMailer::Base](https://github.com/lifo/docrails/blob/master/actionmailer/lib/action_mailer/base.rb#L9-20) 
   and its [generated form](http://api.rubyonrails.org/classes/ActionMailer/Base.html)).
   Again, anyone can contribute to these docs by committing to [lifo/docrails](https://github.com/lifo/docrails).
+
+# Ideas
+
+Highgroove maintains a list of possible contributions in the [Highgroove Open
+Source](https://www.pivotaltracker.com/projects/493477) Pivotal Tracker
+project.
+
+If you have an idea for a contribution, add it as a story to the Icebox.
+
+If you get an itch to contribute to open source--but lack an idea--start
+something from the Icebox and work on it.
+
+The Pivotal Tracker project is also used during Open Source Hackathons that
+occur occasionally during [hack
+nights](https://www.facebook.com/highgroove/events).
 
 # The Mechanics (Existing Projects)
 
