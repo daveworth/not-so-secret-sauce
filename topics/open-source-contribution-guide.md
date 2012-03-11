@@ -109,7 +109,9 @@ Examples:
 * The [Rails Guides](http://guides.rubyonrails.org/) are maintained in the
   [lifo/docrails](https://github.com/lifo/docrails) GitHub repository. There is
   an open commit policy: anyone can simply clone the repository directly and
-  commit/push to it! This is the easiest way to contribute back to Rails.
+  commit/push to it! This is the easiest way to contribute back to Rails. More
+  information about docrails is available in the blog post [What is
+  docrails?](http://weblog.rubyonrails.org/2012/3/7/what-is-docrails).
 
 * The documentation for the popular authorization library
   [CanCan](https://github.com/ryanb/cancan) is maintained in the associated
