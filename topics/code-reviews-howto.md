@@ -71,4 +71,3 @@ Quiet, private, code reviews are nice but there are a few other things we like t
 * 'Pairing Hours' in the conference room:  We'll reserve the conference room for a few hours. Developers are encouraged to stop by with any questions about something they have been working on, or to sit down with other developers to help them out. This is helpful for resolving specific issues.
 
 * 'Code Review: Live':  Occasionally, we'll do a 'live' code review with a bigger audience. The code is projected on the wall or a big-screen TV and anyone in attendance can offer up comments and suggestions. This is helpful for architectural changes and new developers, but usually only makes it through a few commits.
-
