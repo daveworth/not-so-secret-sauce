@@ -72,3 +72,10 @@ description: Tech-Talks - What?  When?  Where? How?
   * [WolfBrain](https://vimeo.com/37822445)
 * Using a wii controller to build simple interactive games for children with
   learning disabilities
+  
+  
+## Other companies do these too!
+* [Highgroove Studios](vimeo.com/highgroove/videos)  (us!)
+* [Google](http://www.youtube.com/user/GoogleTechTalks/featured)
+* [Pivotal Labs](http://pivotallabs.com/talks)
+* [Facebook Engineering](https://www.facebook.com/Engineering/app_260691170608423)
