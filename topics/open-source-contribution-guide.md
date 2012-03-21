@@ -140,6 +140,8 @@ The Pivotal Tracker project is also used during Open Source Hackathons that
 occur occasionally during [hack
 nights](https://www.facebook.com/highgroove/events).
 
+We also recommend taking a look at [Open Hatch](http://openhatch.org/) for worthwhile projects.
+
 # The Mechanics (Existing Projects)
 
 ## Github
@@ -189,7 +191,7 @@ As with any project the key is to make your contributions something well tested,
 within scope, and easily understandable by the recipient.  Moreover by being
 communicative and available you will find your contributions much more likely to
 be accepted by the project one which you worked, then it's time for an
-[Open-Source adult beverage](http://freebeer.org/blog/)!
+[Open-Source adult beverage](http://freebeer.org/blog/)!z
 
 ### Git Workflow and Resolving Conflicts (Part 1)
 <iframe src="http://player.vimeo.com/video/33165748?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">
@@ -202,3 +204,13 @@ be accepted by the project one which you worked, then it's time for an
 <br/><br/>
 
 [Show me more videos!](http://vimeo.com/highgroove/videos)
+
+# Highgroove Open-Source Contributions
+These are some of the recent projects contributed to or written by Highgroove developers:
+* [Zonebie](https://github.com/highgroove/zonebie) - A gem that helps prevent bugs in code involving timezones by randomly assigning a zone on every run.
+* [Bootlace](https://github.com/highgroove/bootlace) - A gem that helps get development (or other) environments setup quickly.
+* [DumbDelegator](https://github.com/highgroove/dumb_delegator) - A lighter weight delegator than what is in included in standard Ruby.
+* [Setler](https://github.com/ckdake/setler) - A gem that lets you use the 'Feature Flags' pattern or add settings to models in Rails.
+* [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects.
+* [Glymour ](https://github.com/highgroove/glymour) - A gem for supervised Bayesian net structure learning. 
+* [Scribd-CarrierWave](https://github.com/aubreyrhodes/scribd-carrierwave) - Integrates [CarrierWave](https://github.com/jnicklas/carrierwave) with [Scribd](http://scribd.com/).
