@@ -74,6 +74,65 @@
   }
 }
 
+.topic .gist{
+  clear: both;
+  margin: 15px 0 !important;
+}
+
+.topic .gist-file{
+  border: none !important;
+}
+
+.topic .gist-meta{
+  padding: 12px !important;
+  border-bottom:1px solid rgba(0, 0, 0, 0.15);
+  border-right:1px solid rgba(0, 0, 0, 0.15);
+  border-left:1px solid rgba(0, 0, 0, 0.15);
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+
+}
+
+.topic .gist-data {
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  background:white !important;
+  display:block;
+  padding-top: 5px;
+  margin:0 0 0px;
+  line-height:0px;
+  font-size:12px;
+  border:1px solid rgba(0, 0, 0, 0.15);
+  white-space:pre;
+  white-space:pre-wrap;
+  word-wrap:break-word;
+}
+
+.topic .gist-highlight {
+  padding: 3px 3px 3px 3px !important;
+  font-family:Monaco, Andale Mono, Courier New, monospace;
+  font-size:12px;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+}
+
+.topic code {
+  padding: 1px 3px 2px 3px !important;
+  font-family:Monaco, Andale Mono, Courier New, monospace;
+  font-size:12px;
+  line-height: 1.4em;
+  border: 1px solid #DEDEDE;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius: 3px;
+  background:white !important;
+}
+
 .content-area {
   padding-top: 60px;
 }
@@ -87,4 +146,8 @@
 .footer p {
   margin-bottom: 0;
   color: #555;
+}
+
+#social ul {
+  margin-left:10px;
 }
