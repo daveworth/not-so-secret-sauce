@@ -37,6 +37,8 @@ Be professional. Remember that clients, designers, and everyone else involved on
 
 If you have any comments that compare the project you are reviewing to other projects, send these comments via e-mail directly to the developer you are reviewing. Some projects that we work on are confidential.
 
+Our process is extremely similar to the process Dan Kubb describes in [Ruby Rogues 047 - Coding Disciplines](http://rubyrogues.com/047-rr-coding-disciplines/) as he practices at CodeBenders.  His description of using Github and the multiple "layers" of review he performs are well worth the listen starting at around 29m30s in the podcast.
+
 ## Reviewing code that isn't on Github
 
 The easiest way to do this is to get the code on Github. You’ll need to ask someone with access to the code to do this for you. Create a new private repository on Github and push the code to it by adding it as an additional remote.  Here are two ways to do this:
