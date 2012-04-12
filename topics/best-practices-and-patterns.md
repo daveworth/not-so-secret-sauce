@@ -27,6 +27,10 @@ Your code needs tests, and all tests need to pass. Also your tests should follow
 * A good testing pattern to follow is minitest(?spec/?shoulda) unit tests of your models and capybara integration tests
 * Be fast
 
+### Continuous Integration
+
+Highgroove encourages all developers to use [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) to run test suites automatically, routinely, and often.  While Highgroove does not force the use of a particular CI solution, [Tddium](http://www.tddium.com) is provided for all Highgroovers to use.
+
     
 Tools and patterns we like
 --------------------------
