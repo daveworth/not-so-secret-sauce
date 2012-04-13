@@ -29,7 +29,7 @@ Your code needs tests, and all tests need to pass. Also your tests should follow
 
 ### Continuous Integration
 
-Highgroove encourages all developers to use [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) to run test suites automatically, routinely, and often.  While Highgroove does not force the use of a particular CI solution, [Tddium](http://www.tddium.com) is provided for all Highgroovers to use.
+All developers are encouraged to use [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) to run test suites automatically, routinely, and often.  Hosted options include [Tddium](http://www.tddium.com), which can be configured to automatically trigger builds and send build status email notifications each time you push to Github.
 
     
 Tools and patterns we like
