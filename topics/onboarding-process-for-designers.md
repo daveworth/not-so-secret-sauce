@@ -74,14 +74,16 @@ More than likely you will already have at least one project you are working
 on. If you don’t already have the source code on your machine, you’ll need to
 copy (or clone) it to your computer. Try this in Terminal:
 
-    git clone git@github.com:highgroove/your_project.git
-    cd your_project
+    git clone git@github.com:highgroove/tacostand.git
 
-You’ll need to replace your_project with the name of the project you’re
-working on.
+Now you have a copy of the app `tacostand` on your computer. The application contains a `README.md`
+file, this file contains the all the instructions needed for getting the application running. You can view this file with any text editor. Take a look at this file and follow its instructions.
 
-*TODO: Write a simple test application with bundler, migrations, et al to go
-through simplified process and make sure minimums are setup. (MySQL!)*
+
+Any Highgroove project you work on should have a similar `README` file that you can use to get an application working.
+
+If everything goes smoothly you should be able to get the application running. If you have trouble on any step, you should recieve some sort of error message describing what is failing. This will likely point back to some part of the technology stack that might not be set up properly. With this information a developer should be able to help you
+solve your problem.
 
 ## Working on Projects
 
