@@ -79,7 +79,6 @@ copy (or clone) it to your computer. Try this in Terminal:
 Now you have a copy of the app `tacostand` on your computer. The application contains a `README.md`
 file, this file contains the all the instructions needed for getting the application running. You can view this file with any text editor. Take a look at this file and follow its instructions.
 
-
 Any Highgroove project you work on should have a similar `README` file that you can use to get an application working.
 
 If everything goes smoothly you should be able to get the application running. If you have trouble on any step, you should recieve some sort of error message describing what is failing. This will likely point back to some part of the technology stack that might not be set up properly. With this information a developer should be able to help you
@@ -87,7 +86,43 @@ solve your problem.
 
 ## Working on Projects
 
-*TODO: Document making changes, committing them, and pushing them up.*
+When working on design things it is often best to work in your own branch. Continuing with our tacostand example from above, assuming you are in your `tacostand` directory type:
+
+		git checkout -b "pretty_branch"
+
+
+With this command you have created a new branch and checked it out. If type 
+
+		git branch
+
+you will see all your branches and it will show you which branch you are working on.
+
+Let's make things prettier! How about adding a CSS file with so new styles? Let's say you created a file called `screen.css` and added that to the `app/assests/css` folder. It has lots of new awesomeness and works great! It is ready to be added the production version of the application.
+
+First let's commit this file to our `pretty_branch` we are currently working on:
+	
+		git add app/assests/css/screen.css
+		git commit -a "Adds some awesome new styles"
+
+Next we want to get any changes that might have happened while we are working.
+
+		git fetch
+
+Now that we have the changes we need to rebase our branch against any changes that might have happened in the master branch:
+
+		git rebase master
+
+Now your commits are made and your branch is up to date. What you do next will vary depending on project to project. Most likely you will want to push your `pretty_branch` to github and submit a pull request.
+
+		git push origin pretty_branch
+
+Once the branch has been pushed you can visit the branch on github and press the button to submit a pull request.
+
+However, in some special cases you might need to go ahead an fold those changes into master and pushed the merged version of master:
+
+		git checkout master
+		git merge pretty_branch
+		git push origin master
 
 ## Glossary
 
