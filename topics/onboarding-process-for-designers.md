@@ -88,41 +88,42 @@ solve your problem.
 
 When working on design things it is often best to work in your own branch. Continuing with our tacostand example from above, assuming you are in your `tacostand` directory type:
 
-		git checkout -b "pretty_branch"
-
+    git checkout -b "pretty_branch"
 
 With this command you have created a new branch and checked it out. If type 
 
-		git branch
+    git branch
 
 you will see all your branches and it will show you which branch you are working on.
 
-Let's make things prettier! How about adding a CSS file with so new styles? Let's say you created a file called `screen.css` and added that to the `app/assests/css` folder. It has lots of new awesomeness and works great! It is ready to be added the production version of the application.
+Let's make things prettier! How about adding a CSS file with some new styles? Let's say you created a file called `screen.css` and added that to the `app/assests/css` folder. Since our project uses the [asset pipline](http://guides.rubyonrails.org/asset_pipeline.html), we don't have to worry about specifily including this file in the markup.
+
+Now that your are happy with your are changes, they are ready to be added the production version of the application.
 
 First let's commit this file to our `pretty_branch` we are currently working on:
-	
-		git add app/assests/css/screen.css
-		git commit -a "Adds some awesome new styles"
+  
+    git add app/assests/css/screen.css
+    git commit -a "Adds some awesome new styles"
 
 Next we want to get any changes that might have happened while we are working.
 
-		git fetch
+    git fetch
 
 Now that we have the changes we need to rebase our branch against any changes that might have happened in the master branch:
 
-		git rebase master
+    git rebase master
 
 Now your commits are made and your branch is up to date. What you do next will vary depending on project to project. Most likely you will want to push your `pretty_branch` to github and submit a pull request.
 
-		git push origin pretty_branch
+    git push origin pretty_branch
 
 Once the branch has been pushed you can visit the branch on github and press the button to submit a pull request.
 
 However, in some special cases you might need to go ahead an fold those changes into master and pushed the merged version of master:
 
-		git checkout master
-		git merge pretty_branch
-		git push origin master
+    git checkout master
+    git merge pretty_branch
+    git push origin master
 
 ## Glossary
 
