@@ -1,7 +1,7 @@
 ---
 layout: topic
-title: Our Open-Source Methodology at Highgroove
-description: How Highgroovers give back to the open-source community
+title: Our Open-Source Methodology
+description: How we give back to the open-source community
 image_hint_url: http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg
 ---
 

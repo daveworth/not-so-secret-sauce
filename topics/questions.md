@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Questions
-description: How to ask Highgroove questions about this document
+description: How to ask us questions about this document
 ---
 
 Not everything we do is covered in these docs (yet!).

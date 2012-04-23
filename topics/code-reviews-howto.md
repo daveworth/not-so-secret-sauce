@@ -3,7 +3,7 @@ layout: topic
 title: Code Reviews
 ---
 
-Highgroove team members are tasked with performing Code Reviews every week.
+Every week, every developer is assigned a random developer to perform a Code Review on.
 
 We do these for several reasons:
 
@@ -41,7 +41,7 @@ Our process is extremely similar to the process Dan Kubb describes in [Ruby Rogu
 
 ## Reviewing code that isn't on Github
 
-The easiest way to do this is to get the code on Github. You’ll need to ask someone with access to the code to do this for you. Create a new private repository on Github and push the code to it by adding it as an additional remote.  Here are two ways to do this:
+The easiest way to do this is to get the code on Github. You'll need to ask someone with access to the code to do this for you. Create a new private repository on Github and push the code to it by adding it as an additional remote.  Here are two ways to do this:
 
 <pre>
 [remote "origin"]

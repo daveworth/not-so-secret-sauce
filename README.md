@@ -115,8 +115,8 @@ which will probably look similar to this:
 ```
 ---
 layout: topic
-title: Highgroove Code Reviews HowTo
-description: How Highgroovers give back to the open-source community
+title: Code Reviews HowTo
+description: How we give back to the open-source community
 ---
 ```
 
