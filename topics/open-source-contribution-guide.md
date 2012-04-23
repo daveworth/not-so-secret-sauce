@@ -16,7 +16,7 @@ Open Source is a two-way street, however. While we aren't legally bound to
 contribute back to the software we use, we like to do it out of a sense of
 community and because we know how much open source has helped us solve big
 problems. It's also good for business, of course, since it increases
-Highgroove's visibility if other developers are using software we helped create.
+our visibility if other developers are using software we helped create.
 
 
 # Motivation
@@ -82,11 +82,11 @@ extracted out of code that parallelized a report for a customer.
 The extracted library will be easier to maintain because it is separated from a
 specific project. It will also be a welcomed contribution that saves other
 developers time. Also, it might save you time if another developer contributes a
-feature you need back. And last but not least, it makes you and Highgroove look
+feature you need back. And last but not least, it makes you and us look
 awesome!
 
 Building a gem is not a difficult process, so even the smallest of gems will be
-welcomed additions to the community. Seek out other Highgroovers who have built
+welcomed additions to the community. Seek out other people who have built
 gems before if you want to give this a shot; you might be surprised at how easy
 it is.
 
