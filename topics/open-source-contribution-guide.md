@@ -5,7 +5,11 @@ description: How we give back to the open-source community
 image_hint_url: http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg
 ---
 
-<a href="http://www.flickr.com/photos/saskiavandenieuwenhof/2312329520/" title="Free beer at van Abbe museum by Saskia Heijltjes, on Flickr"><img src="http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg" width="240" height="180" alt="Free beer at van Abbe museum" style="float: right"></a>
+<a href="http://www.flickr.com/photos/saskiavandenieuwenhof/2312329520/"
+   title="Free beer at van Abbe museum by Saskia Heijltjes, on Flickr"><img
+   src="http://farm3.staticflickr.com/2354/2312329520_cd26fbd46d_m.jpg"
+   width="240" height="180" alt="Free beer at van Abbe museum" style="float:
+   right"></a>
 
 Open-Source software makes all of our lives better. It allows us to do our jobs
 without reimplementing the wheel each time. It allows us to understand the nuts
@@ -121,7 +125,7 @@ Examples:
 
 * Documentation for code structures is usually maintained alongside the code
   itself. The Rails API docs are generated from code comments in RDoc format
-  (for an example, see [ActionMailer::Base](https://github.com/lifo/docrails/blob/master/actionmailer/lib/action_mailer/base.rb#L9-20) 
+  (for an example, see [ActionMailer::Base](https://github.com/lifo/docrails/blob/master/actionmailer/lib/action_mailer/base.rb#L9-20)
   and its [generated form](http://api.rubyonrails.org/classes/ActionMailer/Base.html)).
   Again, anyone can contribute to these docs by committing to [lifo/docrails](https://github.com/lifo/docrails).
 
@@ -206,11 +210,27 @@ be accepted by the project one which you worked, then it's time for an
 [Show me more videos!](http://vimeo.com/highgroove/videos)
 
 # Highgroove Open-Source Contributions
-These are some of the recent projects contributed to or written by Highgroove developers:
-* [Zonebie](https://github.com/highgroove/zonebie) - A gem that helps prevent bugs in code involving timezones by randomly assigning a zone on every run.
-* [Bootlace](https://github.com/highgroove/bootlace) - A gem that helps get development (or other) environments setup quickly.
-* [DumbDelegator](https://github.com/highgroove/dumb_delegator) - A lighter weight delegator than what is in included in standard Ruby.
-* [Setler](https://github.com/ckdake/setler) - A gem that lets you use the 'Feature Flags' pattern or add settings to models in Rails.
-* [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects.
-* [Glymour ](https://github.com/highgroove/glymour) - A gem for supervised Bayesian net structure learning. 
-* [Scribd-CarrierWave](https://github.com/aubreyrhodes/scribd-carrierwave) - Integrates [CarrierWave](https://github.com/jnicklas/carrierwave) with [Scribd](http://scribd.com/).
+These are some of the recent projects contributed to or written by Highgroove
+developers:
+
+* [Zonebie](https://github.com/highgroove/zonebie) - A gem that helps prevent
+  bugs in code involving timezones by randomly assigning a zone on every run.
+* [Bootlace](https://github.com/highgroove/bootlace) - A gem that helps get
+  development (or other) environments setup quickly.
+* [git_tracker](https://github.com/highgroove/git_tracker) - Some simple tricks
+  that make working with Pivotal Tracker even better... and easier... um,
+  besier!
+* [Grocer](https://github.com/highgroove/grocer) - The cleanest, most
+  extensible, and friendliest way to send Apple Push Notifications.
+* [DumbDelegator](https://github.com/highgroove/dumb_delegator) - A lighter
+  weight delegator than what is in included in standard Ruby.
+* [Setler](https://github.com/ckdake/setler) - A gem that lets you use the
+  'Feature Flags' pattern or add settings to models in Rails.
+* [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby
+  objects.
+* [Glymour ](https://github.com/highgroove/glymour) - A gem for supervised
+  Bayesian net structure learning.
+* [Scribd-CarrierWave](https://github.com/aubreyrhodes/scribd-carrierwave) -
+  Integrates [CarrierWave](https://github.com/jnicklas/carrierwave) with
+  [Scribd](http://scribd.com/).
+
