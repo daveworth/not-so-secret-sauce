@@ -19,6 +19,12 @@ Remember, you can work from anywhere anytime you want. You don't have to take
 vacation to go to the beach! You are still responsible for being an "A" player
 so we know that you will use the unlimited vacation policy wisely!
 
+Also remember, working while on vacation isn't really that awesome.  It's much
+better to take the time off to recharge so that you can be more awesome when you
+get back. The same thing applies to conferences: don't spend conference sessions
+trying to get other work done. Try and leave your laptop at home. Maybe your phone
+too.
+
 ### *What about last-minute trip opportunities?*
 
 First and foremost, talk to your client(s). You could:
@@ -35,7 +41,7 @@ First and foremost, talk to your client(s). You could:
   manager know that the client should be billed less.
 * Take a working vacation and get your work done. Let the client know that your
   "hours" will be different, but that they shouldn't lower expectations.  This
-  sounds like a good idea but working on trips can be tought, so be sure you
+  sounds like a good idea but working on trips can be tough, so be sure you
   know what you're getting into. Feel free to do this whenever you like, but
   it's not recommended.
 
