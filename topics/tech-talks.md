@@ -15,10 +15,11 @@ description: Tech-Talks - What?  When?  Where? How?
 * Totally optional.
 * Broadcast live via GoToMeeting and recorded for watching later on Vimeo.
 * Anyone is welcome to attend as long as they commit to presenting a topic at some point in the future.
+* Topics and talk durations should be listed so you know what to expect before you show up.
 
 # Presenting
 
-* Your topic needs to be posted with the meeting invite earlier in the week so that people can decide if they want to attend.
+* Your topic and estimated talk duration needs to be posted with the meeting invite earlier in the week so that people can decide if they want to attend.
 * Presentations should not include Company Confidential Information. This includes mentions of client names and confidential aspects of those projects.  Company Confidential Information related questions should be held to the end once recording has stopped.
 * Turn off your email, turn off your timer, turn off your growl notifications, and don't mention any of our clients unless you have asked permission to do so!
 * Repeat questions from the audience so that they can be heard in the recording.
