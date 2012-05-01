@@ -4,29 +4,31 @@ title: Tech Talks
 description: Tech-Talks - What?  When?  Where? How?
 ---
 
-# Tech Talks
-
-## Intention
+# Intention
 
 * A fun presentation on any topic under the sun that is some combination of new, relevant, interesting, or obscure.
 * Presented by someone that is a subject matter expert, or that has prepared themselves enough to present and answer in-depth questions.
-* Less than an hour long,  fitting in two 30 minute talks each time would be ideal.
-* Marketing for us!  These should be interesting to people outside of our organization, should add knowledge to our community, and should show how great it is to work here because we get to attend these.
+* Only as long as needed. Most things can be done in 15 minutes, and it's rare that a whole hour will be needed.
 
-## Attending
+# Attending
 
 * Totally optional.
 * Broadcast live via GoToMeeting and recorded for watching later on Vimeo.
 * Anyone is welcome to attend as long as they commit to presenting a topic at some point in the future.
 
-## Presenting
+# Presenting
 
-* All employees are asked to regularly present, and we invite people from other companies to present
-* Topic needs to be posted with the meeting invite earlier in the week so that people can decide if they want to attend.
+* Your topic needs to be posted with the meeting invite earlier in the week so that people can decide if they want to attend.
 * Presentations should not include Company Confidential Information. This includes mentions of client names and confidential aspects of those projects.  Company Confidential Information related questions should be held to the end once recording has stopped.
 * Turn off your email, turn off your timer, turn off your growl notifications, and don't mention any of our clients unless you have asked permission to do so!
+* Repeat questions from the audience so that they can be heard in the recording.
+* Make sure someone is recording the talk.
 
-## Some Previous Topics at Highgroove
+# How to attend at Highgroove
+
+* Check the [Tech Talks page](http://highgroove.com/tech_talks.html) on our website.
+
+# Some Previous Topics at Highgroove
 
 * [New Ruby on Rails](https://vimeo.com/33167318) features and technologies:
   * Background workers in [IronWorker](https://vimeo.com/37828341)
