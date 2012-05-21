@@ -70,6 +70,8 @@ If the code cannot be pushed to Github, you should get in touch with the develop
 
 Quiet, private, code reviews are nice but there are a few other things we like to do occasionally to better achieve the goals at the top of this page:
 
+* 'Continual Review' is like what is described above, except it happens every day instead of once a week. If you can manage to review a day's worth of commits every day instead of waiting to review a week's worth of commits at once, this is a good thing! The developer you are reviewing gets feedback sooner, and changes can be made before more complexity is added on top of them.
+
 * 'Pairing Hours' in the conference room:  We'll reserve the conference room for a few hours. Developers are encouraged to stop by with any questions about something they have been working on, or to sit down with other developers to help them out. This is helpful for resolving specific issues.
 
 * 'Code Review: Live':  Occasionally, we'll do a 'live' code review with a bigger audience. The code is projected on the wall or a big-screen TV and anyone in attendance can offer up comments and suggestions. This is helpful for architectural changes and new developers, but usually only makes it through a few commits.
