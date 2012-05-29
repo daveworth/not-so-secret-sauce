@@ -19,11 +19,25 @@ Remember, you can work from anywhere anytime you want. You don't have to take
 vacation to go to the beach! You are still responsible for being an "A" player
 so we know that you will use the unlimited vacation policy wisely!
 
-Also remember, working while on vacation isn't really that awesome.  It's much
-better to take the time off to recharge so that you can be more awesome when you
-get back. The same thing applies to conferences: don't spend conference sessions
-trying to get other work done. Try and leave your laptop at home. Maybe your phone
-too.
+While it seems like a good idea to go to the beach and get work done, working
+while on vacation isn't really that awesome.  It's much better to take the time
+off to recharge so that you can be more awesome when you get back. The same thing
+applies to conferences: don't spend conference sessions trying to get other work
+done. Try and leave your laptop at home. Maybe your phone too. That said, if you
+have huge swaths of 'down time' while on a trip, that can be a pretty awesome
+time and place to get some work done.
+
+If you do decide to take a 'working vacation', here are some guidelines:
+
+* Don't think it's going to be easy, because it's not. Working on vacation
+  will diminish the enjoyment of vacation until you get really comfortable with it.
+* Make sure you have what you need to get work done, including any quiet/noise you
+  need, food, internet, etc.
+* Plan time to work and establish clear boundaries between work time and vacation
+  time, and set expectations for people you are vacationing with or staying with.
+  If they are trying to drag you to happy hour when you're trying to fix a broken
+  test, you're not going to have a good time.
+* Don't work on vacation, just take the time off.
 
 ### *What about last-minute trip opportunities?*
 
