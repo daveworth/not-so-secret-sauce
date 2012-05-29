@@ -41,7 +41,7 @@ Publishing
 
 ## Get Feedback
 
-We peer review software, so we also peer review blog posts. When you deliver a blog post, commit it with the published flag set to false and deliver the blog post story in Pivotal Tracker. Then, someone else will review your post and (hopefully) reject it with a list of changes, suggestions. You'll re-deliver until everything looks good, and whoever accepts your story will also be responsible for setting it to published and deploying it to the tubes. 
+We peer review software, so we also peer review blog posts. When you deliver a blog post, commit it with the published flag set to false and deliver the blog post story in Pivotal Tracker. Then, someone else will review your post and (hopefully) reject it with a list of suggested changes.  If the review will take place in Github make sure you commit your post with the content line wrapped (your editor should be able to do this for you easily) so that your reviewer can easily read the post on the page and comment on the specific line that needs to be editted, rather than adding lots of comments per one-line paragraph.  After review you will re-deliver and iterate until everything looks good, and whoever accepts your story will also be responsible for setting it to published and deploying it to the tubes.
 
 
 ## Ship it
