@@ -73,3 +73,19 @@ days PTO.
 * Get better, get rested, or schedule doctor or clinic visit so you can come
   back and kick ass.
 
+## Holidays
+
+Holidays look suspiciously similar to vacations. These are on the calendar, and
+it's assumed that most people will take most of these days off, but it's also
+completely ok to work on them instead. The office will be 'closed', but the only
+thing this really matters for is billing/invoicing (e.g. we don't expect clients
+to mail us checks on Memorial Day).
+
+As far as you are concerned, all the same rules apply, let your Client(s)
+and Office Manager know, and be reasonable!  If you'd like to take a holiday for Kal
+Rekk or any other personal/religious/cultural/etc holiday, it's just like a vacation
+day and we'll see you when you get back.
+
+The office will be 'closed' each year for: Memorial Day, Independence Day, 
+Thanksgiving Day and the following day, Christmas Day, New Years Day, and 3 'floating'
+holidays that typically are used to make a long break for Christmas/New Years.
