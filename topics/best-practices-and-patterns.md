@@ -93,3 +93,4 @@ Use [jQuery](http://jquery.com/) and [CoffeeScript](http://coffeescript.org/), d
 * [kaminari](https://github.com/amatsuda/kaminari) - Pagination
 * [bullet](https://github.com/flyerhzm/bullet) - Detecting SQL issues
 * [Foreman](https://github.com/ddollar/foreman) - startup everything you need at once
+* [high_voltage](https://github.com/thoughtbot/high_voltage) - Static pages done well
