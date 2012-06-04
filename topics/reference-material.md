@@ -7,6 +7,9 @@ description: Where to go to learn new stuff
 When we need to learn something new where do we look.  Below are our favorite
 resources from introductory tutorials through advanced reference materials.
 
+## General Programming Awesomeness:
+* [Code Katas](http://codekata.pragprog.com/2007/01/code_kata_backg.html#more)
+
 ## Ruby and Ruby on Rails Tutorials / Walk Throughs:
 * [Ruby Monk](http://rubymonk.com/)
 * [Ruby Koans](http://rubykoans.com/)
