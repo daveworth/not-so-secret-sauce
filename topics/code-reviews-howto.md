@@ -13,11 +13,13 @@ We do these for several reasons:
 
 ## I'm new here!
 
-For your first few code reviews, you should pair with someone else for doing the actual review. Code reviews are extremely important, and aren't something that comes naturally to most people until you've done a few of them. A recorded <a href="/topics/tech-talks.html">Tech Talk</a> on this is coming soon.
+For the first few code reviews that you do, you should pair with someone else for doing the actual review. Code reviews are extremely important, and aren't something that comes naturally to most people until you've done a few of them. A recorded <a href="/topics/tech-talks.html">Tech Talk</a> on this is coming soon.
+
+Hopefully, the first people to review you will go overboard and give you a lot of feedback so you can get a feel for what is involved. Remember that there is nothing personal about feedback in a code review, we're all here to deliver high quality software and the feedback is about how to make our software better.
 
 ## The Process
 
-Each week, you'll be assigned another developer to review. Find out what projects they have worked on, and queue up every commit they have made since the last time they were reviewed (Typically 1 week ago). If you don't have access to their code for some reason, let the developer know and there are likely a few quick buttons that can be pushed.
+Each week, you'll be assigned another developer to review. Before the week begins, find out what projects the developer will be working on and figure out when and how you will be reviewing them. If you don't have access to their code for some reason, let the developer know and there are likely a few quick buttons that can be pushed. Ideally you'll review commits every day or even more frequently, but sometimes you'll end up waiting until the end of the week and reviewing a week's worth of commits all at once. It's also good to schedule a time with the developer you are reviewing to sit down with them and do the review while both of you are looking at the screen.
 
 Take a look at each commit and leave in-line comments for anything you notice including things like:
 
@@ -33,7 +35,7 @@ In addition to commits, it's good to give the project a quick review for other t
 * Is the Gemfile documented with explanations for what any Gems do that you haven't heard of?
 * Does the project architecture follow established best practices and patterns?
 
-Be professional. Remember that clients, designers, and everyone else involved on a project can see your comments!
+Be thorough and professional. Your feedback should be verbose and constructive, and you should leave a note on anything that you see that doesn't smell right. Remember that clients, designers, and everyone else involved on a project can see your comments!
 
 If you have any comments that compare the project you are reviewing to other projects, send these comments via e-mail directly to the developer you are reviewing. Some projects that we work on are confidential.
 
@@ -70,7 +72,7 @@ If the code cannot be pushed to Github, you should get in touch with the develop
 
 Quiet, private, code reviews are nice but there are a few other things we like to do occasionally to better achieve the goals at the top of this page:
 
-* 'Continual Review' is like what is described above, except it happens every day instead of once a week. If you can manage to review a day's worth of commits every day instead of waiting to review a week's worth of commits at once, this is a good thing! The developer you are reviewing gets feedback sooner, and changes can be made before more complexity is added on top of them.
+* 'Continual Review' is like what is described above, except it happens every day instead of once a week. If you can manage to review a day's worth of commits every day instead of waiting to review a week's worth of commits at once, this is a good thing! The developer you are reviewing gets feedback sooner, and changes can be made before more complexity is added on top of them. Ideally, all code reviews will work like this.
 
 * 'Pairing Hours' in the conference room:  We'll reserve the conference room for a few hours. Developers are encouraged to stop by with any questions about something they have been working on, or to sit down with other developers to help them out. This is helpful for resolving specific issues.
 
