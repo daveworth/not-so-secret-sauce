@@ -198,14 +198,10 @@ be accepted by the project one which you worked, then it's time for an
 [Open-Source adult beverage](http://freebeer.org/blog/)!z
 
 ### Git Workflow and Resolving Conflicts (Part 1)
-<iframe src="http://player.vimeo.com/video/33165748?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">
-</iframe>
-<br/>
-<br/>
+<iframe src="http://player.vimeo.com/video/33165748?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">&nbsp;</iframe>
+
 ### Git Workflow and Resolving Conflicts (Part 2)
-<iframe src="http://player.vimeo.com/video/33166064?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="450" frameborder="0">
-</iframe>
-<br/><br/>
+<iframe src="http://player.vimeo.com/video/33166064?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="450" frameborder="0">&nbsp;</iframe>
 
 [Show me more videos!](http://vimeo.com/highgroove/videos)
 
@@ -233,4 +229,3 @@ developers:
 * [Scribd-CarrierWave](https://github.com/aubreyrhodes/scribd-carrierwave) -
   Integrates [CarrierWave](https://github.com/jnicklas/carrierwave) with
   [Scribd](http://scribd.com/).
-

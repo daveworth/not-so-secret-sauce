@@ -3,7 +3,9 @@ layout: topic
 title: Code Reviews
 ---
 
-Every week, every developer is assigned a random developer to perform a Code Review on.
+Every week, every developer is assigned a random developer to perform a Code Review on. Watch the video, and read the details.
+
+<iframe src="http://player.vimeo.com/video/43695570?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">&nbsp;</iframe>
 
 We do these for several reasons:
 
@@ -13,7 +15,7 @@ We do these for several reasons:
 
 ## I'm new here!
 
-For the first few code reviews that you do, you should pair with someone else for doing the actual review. Code reviews are extremely important, and aren't something that comes naturally to most people until you've done a few of them. A recorded <a href="/topics/tech-talks.html">Tech Talk</a> on this is coming soon.
+For the first few code reviews that you do, you should pair with someone else for doing the actual review. Code reviews are extremely important, and aren't something that comes naturally to most people until you've done a few of them.
 
 Hopefully, the first people to review you will go overboard and give you a lot of feedback so you can get a feel for what is involved. Remember that there is nothing personal about feedback in a code review, we're all here to deliver high quality software and the feedback is about how to make our software better.
 
