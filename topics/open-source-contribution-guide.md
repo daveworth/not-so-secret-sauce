@@ -27,17 +27,17 @@ our visibility if other developers are using software we helped create.
 
 ## Scratch an Itch
 
-Many of our developers contribute to open-source projects regularly. Often their
-involvement in a given project arose from a need such as a feature lacking in a
-toolset upon which they already relied. See the
-[Badger Works](http://highgroove.com/badger_works.html) for complete details.
+Many of our developers contribute to open-source projects regularly. Often
+their involvement in a given project arose from a need such as a feature
+lacking in a toolset upon which they already relied. See the [Badger
+Works](http://highgroove.com/badger_works.html) for complete details.
 
 ## Fix a Bug
 
 Bugs in software are a reality, but also incredibly frustrating for users of
 open-source libraries. If you run across a bug in a library that you are using,
 do the community a huge favor by tracking it down, making a bug report, and
-  ideally, fixing it!
+ideally, fixing it!
 
 Follow all of the same guidelines as if you were adding a new feature (see The
 Mechanics section below).
@@ -85,8 +85,8 @@ extracted out of code that parallelized a report for a customer.
 
 The extracted library will be easier to maintain because it is separated from a
 specific project. It will also be a welcomed contribution that saves other
-developers time. Also, it might save you time if another developer contributes a
-feature you need back. And last but not least, it makes you and us look
+developers time. Also, it might save you time if another developer contributes
+a feature you need back. And last but not least, it makes you and us look
 awesome!
 
 Building a gem is not a difficult process, so even the smallest of gems will be
@@ -101,8 +101,8 @@ improving the documentation. Documenting some code or a common task when using
 software is great way to learn the internals of the a project. It sounds really
 mundane, but if you are using a library and realize its documentation is
 lacking, it would be a great service to the community if you contributed
-documentation back. You'll help allay a lot of developer frustration and learn a
-ton along the way.
+documentation back. You'll help allay a lot of developer frustration and learn
+a ton along the way.
 
 To make a documentation contribution, figure out the specifics of how
 documentation is handled for a given project. Sometimes documentation lives
@@ -125,9 +125,12 @@ Examples:
 
 * Documentation for code structures is usually maintained alongside the code
   itself. The Rails API docs are generated from code comments in RDoc format
-  (for an example, see [ActionMailer::Base](https://github.com/lifo/docrails/blob/master/actionmailer/lib/action_mailer/base.rb#L9-20)
-  and its [generated form](http://api.rubyonrails.org/classes/ActionMailer/Base.html)).
-  Again, anyone can contribute to these docs by committing to [lifo/docrails](https://github.com/lifo/docrails).
+  (for an example, see
+  [ActionMailer::Base](https://github.com/lifo/docrails/blob/master/actionmailer/lib/action_mailer/base.rb#L9-20)
+  and its [generated
+  form](http://api.rubyonrails.org/classes/ActionMailer/Base.html)). Again,
+  anyone can contribute to these docs by committing to
+  [lifo/docrails](https://github.com/lifo/docrails).
 
 # Ideas
 
@@ -144,14 +147,16 @@ The Pivotal Tracker project is also used during Open Source Hackathons that
 occur occasionally during [hack
 nights](https://www.facebook.com/highgroove/events).
 
-We also recommend taking a look at [Open Hatch](http://openhatch.org/) for worthwhile projects.
+We also recommend taking a look at [Open Hatch](http://openhatch.org/) for
+worthwhile projects.
 
 # The Mechanics (Existing Projects)
 
 ## Github
 
-Ryan Bates' [Railscast #300 on Contributing to Open Source](http://railscasts.com/episodes/300-contributing-to-open-source)
-covers all the details on fixing bugs and adding features to projects hosted on
+Ryan Bates' [Railscast #300 on Contributing to Open
+Source](http://railscasts.com/episodes/300-contributing-to-open-source) covers
+all the details on fixing bugs and adding features to projects hosted on
 GitHub. It's well worth the 9 minutes!
 
 ## Doing it by hand
@@ -170,7 +175,8 @@ you will have to be in greater command of your tools:
 1. Retrieve the code
     * Check it out of an SCM (SVN, Mercurial, CSV, RCS!?)
     * Download the source tarball
-2. _Optional_ Import the code into a local Git repository to manage feature branches
+2. _Optional_ Import the code into a local Git repository to manage feature
+branches
 3. Make your changes to your local code, along with tests if possible.
 4. Contribute your patch:
     * If you don't have commit access to the original SCM (if there is one),
@@ -191,11 +197,11 @@ you will have to be in greater command of your tools:
 
 # Wrap-up
 
-As with any project the key is to make your contributions something well tested,
-within scope, and easily understandable by the recipient.  Moreover by being
-communicative and available you will find your contributions much more likely to
-be accepted by the project one which you worked, then it's time for an
-[Open-Source adult beverage](http://freebeer.org/blog/)!z
+As with any project the key is to make your contributions something well
+tested, within scope, and easily understandable by the recipient. Moreover by
+being communicative and available you will find your contributions much more
+likely to be accepted by the project one which you worked, then it's time for
+an [Open-Source adult beverage](http://freebeer.org/blog/)!
 
 ### Git Workflow and Resolving Conflicts (Part 1)
 <iframe src="http://player.vimeo.com/video/33165748?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">&nbsp;</iframe>
