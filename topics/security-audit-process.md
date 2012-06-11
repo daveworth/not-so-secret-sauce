@@ -8,15 +8,15 @@ description: Our internal security audit process and methodology
 
 # Overview
 
-At Highgroove we take application security very seriously.  The good news is
-that Ruby on Rails does as well and if developers follow the well documented
+We take application security very seriously.  The good news is that Ruby on
+Rails does as well and if developers follow the well documented
 [best-practices](http://guides.rubyonrails.org/security.html) in the field it is
 very difficult to introduce the majority of security vulnerabilities that plague
 other platforms and frameworks.  There are trade-offs of course, and as
 applications become more sophisticated the more powerful the tools that are
 brought to bear on the problem.  With that sophistication comes more potential
 for subtle security bugs to creep in.  To prevent that we perform standard
-security audits to catch such subtleties before they are put into production.
+  security audits to catch such subtleties before they are put into production.
 
 ## High-level audit process:
 * Audit with [Brakeman](http://brakemanscanner.org/) - this scanner analyzes and
@@ -66,10 +66,10 @@ security audits to catch such subtleties before they are put into production.
   * Address each phase of the audit above
 
   * Address non-security issues noticed during the review.  This phase is
-    fairly similar to the Highgroove [code-review process](http://not-so-secret-sauce.highgroove.com/topics/code-reviews-howto.html)
+    fairly similar to our [code-review process](http://not-so-secret-sauce.highgroove.com/topics/code-reviews-howto.html)
 
 * Any bugs discovered in any audit tool or libraries discovered during the
-  audit, are reported to the authors and sometimes patched.  Highgroove
-  takes its responsibility to open-source very seriously and we work to
+  audit, are reported to the authors and sometimes patched.  We
+  take our responsibility to open-source very seriously and we work to
   improve the tools we use when we can.  This work is not done on client
-  time but rather as part of our internal iteration at Highgroove.
+  time but rather as part of our internal work to contribute back.
