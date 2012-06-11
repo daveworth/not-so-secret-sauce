@@ -37,15 +37,18 @@ security audits to catch such subtleties before they are put into production.
   use issues which may have been missed by Brakeman.
 
 * Audit authentication and authorization-controls
+
   * If the application is using an unfamiliar control mechanism become familiar
     with it.
 
   * Authentication:
     * If the project uses `has_secure_password` we're pretty.
+
     * If the project is using Devise or another system, analyze its use for
       common security issues.
 
   * Authorization:
+
     * If the application is using CanCan make sure cascading `cannot`s override
       existing `can`s.
 
@@ -61,6 +64,7 @@ security audits to catch such subtleties before they are put into production.
   just ask!
 
   * Address each phase of the audit above
+
   * Address non-security issues noticed during the review.  This phase is
     fairly similar to the Highgroove [code-review process](http://not-so-secret-sauce.highgroove.com/topics/code-reviews-howto.html)
 
