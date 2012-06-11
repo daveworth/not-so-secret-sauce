@@ -1,3 +1,11 @@
+---
+layout: topic
+title: Security Audit Process
+published: true
+image_hint_url:
+description: Our internal security audit process and methodology
+---
+
 # Overview
 
 At Highgroove we take application security very seriously.  The good news is
