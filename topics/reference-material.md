@@ -26,3 +26,6 @@ resources from introductory tutorials through advanced reference materials.
 * [RubyDoc.info](http://rdoc.info/) - all the docs
 * [Ruby-Doc.org](http://www.ruby-doc.org/)
 * [Read Ruby 1.9](http://ruby.runpaint.org/)
+
+## Deployment
+* [Platforms](/topics/deployment-platforms.html)
