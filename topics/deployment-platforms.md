@@ -5,7 +5,7 @@ published: true
 description: Deciding where to deploy your app
 ---
 
-When we develop web applicaitons the majority of our focus is on building
+When we develop web applications the majority of our focus is on building
 the features that we need. We focus on which gems provide us the functionality
 we want, which database is best suited to the application, but not about where
 we deploy our applications. There are several deployment platforms that are
@@ -84,7 +84,7 @@ provides the base platform, but the rest is up to you.
 
 ## Price
 
-Railsmachine cost is based on what resources your application requires. On the core
+Rails Machine cost is based on what resources your application requires. On the core
 plan the costs start at $150 per month for the smallest server. They also have the
 option to add additional resources to the server incrementally. For example, to add
 an extra GB of memory to the machine would cost an extra $100 per month. All of the
