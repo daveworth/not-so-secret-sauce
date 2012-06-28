@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Deployment Platforms
-published: false
+published: true
 description: Deciding where to deploy your app
 ---
 
