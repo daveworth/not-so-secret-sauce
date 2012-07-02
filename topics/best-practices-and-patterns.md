@@ -48,10 +48,8 @@ Anything that may take more than a few hundred milliseconds (e.g.,
 communicating with an external web service or sending email) should probably be
 done asynchronously using a job queue.
 
-* [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Sidekiq](https://github.com/mperham/sidekiq)
-* [Resque](https://github.com/defunkt/resque) (requires
-  [Redis](http://redis.io))
+* [DelayedJob](https://github.com/collectiveidea/delayed_job)
 
 Rails 4.0 will support a [generic queuing
 mechanism](https://github.com/rails/rails/commit/602000be90e9935f4f4ee5acc096725d7b7c33e5).
