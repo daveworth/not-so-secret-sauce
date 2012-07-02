@@ -99,8 +99,8 @@ seems to be much more well-known and supported these days.
 
 ### Testing
 
-* [minitest](https://github.com/seattlerb/minitest) or
-  [rspec/rspec-rails](https://github.com/rspec/rspec-rails)
+* [rspec/rspec-rails](https://github.com/rspec/rspec-rails) or
+  [minitest](https://github.com/seattlerb/minitest)
 * [factory_girl](https://github.com/thoughtbot/factory_girl_rails): creating
   instances of objects in tests
 * [forgery](https://github.com/sevenwire/forgery): creating unique data in
