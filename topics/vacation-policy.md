@@ -104,3 +104,12 @@ The office will be 'closed' each year for: Memorial Day, Independence Day,
 Thanksgiving Day and the following day, Christmas Day, New Years Day, and 3
 'floating' holidays that typically are used to make a long break for
 Christmas/New Years.
+
+In 2012 this is:
+
+* Monday, January 2 New Year's Day
+* Monday, May 28 Memorial Day
+* Wednesday, July 4 Independence Day
+* Monday, September 3 Labor Day
+* Thursday, November 22 Thanksgiving Day
+* Tuesday, December 25 Christmas Day
