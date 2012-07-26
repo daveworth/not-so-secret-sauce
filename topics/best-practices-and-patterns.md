@@ -128,6 +128,11 @@ seems to be much more well-known and supported these days.
 
 * [bullet](https://github.com/flyerhzm/bullet): SQL performance issues
 
+### Systems Programming
+
+* [Dante](https://github.com/bazaarlabs/dante/): Turn your ruby program into a
+  deamon easily.
+
 ### Development
 
 * [Foreman](https://github.com/ddollar/foreman): manage all the processes your
