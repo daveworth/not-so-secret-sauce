@@ -51,8 +51,7 @@ done asynchronously using a job queue.
 * [Sidekiq](https://github.com/mperham/sidekiq)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 
-Rails 4.0 will support a [generic queuing
-mechanism](https://github.com/rails/rails/commit/602000be90e9935f4f4ee5acc096725d7b7c33e5).
+Rails 4.0 will support a [generic queuing mechanism](https://github.com/rails/rails/commit/602000be90e9935f4f4ee5acc096725d7b7c33e5).
 
 ### Code Coverage Tools 
 
@@ -77,8 +76,8 @@ There is a [tech talk](http://vimeo.com/39498553) on why the lighter weight
 
 ### Feature Flags
 
-* [Setler](https://github.com/ckdake/setler) ([blog
-  post](http://highgroove.com/articles/2011/08/22/introducing-setler-for-feature-flags.html))
+* [Setler](https://github.com/ckdake/setler) 
+  ([blog post](http://highgroove.com/articles/2011/08/22/introducing-setler-for-feature-flags.html))
 
 ### Javascript
 
@@ -107,21 +106,18 @@ seems to be much more well-known and supported these days.
   factory-created objects
 * [mocha](https://github.com/floehopper/mocha) or
   [rspec-mocks](https://github.com/rspec/rspec-mocks): mocking and stubbing
-  (recommended reading: [Mocks Aren't
-  Stubs](http://www.martinfowler.com/articles/mocksArentStubs.html) and [Mock
-  Roles, Not
-  Objects](http://www.mockobjects.com/files/mockrolesnotobjects.pdf))
+  (recommended reading: [Mocks Aren't Stubs](http://www.martinfowler.com/articles/mocksArentStubs.html) and 
+  [Mock Roles, Not Objects](http://www.mockobjects.com/files/mockrolesnotobjects.pdf))
 * [VCR](https://github.com/myronmarston/vcr): stubbing network traffic during
   integration tests
 * [Spork](https://github.com/sporkrb/spork): a non-ideal, but sometimes
   pragmatic, solution to slow tests
-  
+
 ### The Cloud
 
 * [Heroku](http://www.heroku.com/): application hosting
 * [asset_sync](https://github.com/rumblelabs/asset_sync): host assets on S3
-  ([blog
-  post](http://ckdake.com/content/2011/rails-31-assets-on-s3-with-https.html))
+  ([blog post](http://ckdake.com/content/2011/rails-31-assets-on-s3-with-https.html))
 
 ### Security
 
@@ -138,6 +134,6 @@ seems to be much more well-known and supported these days.
   app needs to run
 
 ### Other
-  
+
 * [kaminari](https://github.com/amatsuda/kaminari): pagination
 * [high_voltage](https://github.com/thoughtbot/high_voltage): static pages
