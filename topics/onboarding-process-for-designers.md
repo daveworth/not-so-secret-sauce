@@ -49,7 +49,7 @@ don't need to install Git as it's already been installed by RailsInstaller*.
 
 To make sure everything worked, try checking out our demonstration repository:
 
-  git clone https://github.com/highgroove/tacostand.git
+    git clone https://github.com/highgroove/tacostand.git
 
 Now you have a copy of the app `tacostand` on your computer. The application
 contains a `README.md` file, this file contains the all the instructions needed
@@ -76,11 +76,11 @@ When working on design things it is often best to work in your own branch.
 Continuing with our tacostand example from above, assuming you are in your
 `tacostand` directory type:
 
-  git checkout -b "adding_styling_for_screens" origin/master
+    git checkout -b "adding_styling_for_screens" origin/master
 
 With this command you have created a new branch and checked it out. If type
 
-  git branch
+    git branch
 
 you will see all your branches and it will show you which branch you are
 working on.
@@ -97,15 +97,15 @@ production version of the application.
 First let's commit this file to our `adding_styling_for_screens` we are
 currently working on:
 
-  git add app/assets/stylesheets/screen.css
-  git commit -a "Adds some awesome new styles"
+    git add app/assets/stylesheets/screen.css
+    git commit -a "Adds some awesome new styles"
 
 When you're done adding styling, "push" your branch to GitHub (in this case
 Git knows GitHub as the "origin" repository):
 
-  # Note that this won't actually work on tacostand because you will not
-  # have authorization to push to that repository
-  git push origin adding_styling_for_screens
+    # Note that this won't actually work on tacostand because you will not
+    # have authorization to push to that repository
+    git push origin adding_styling_for_screens
 
 Finally, create a "pull request" on GitHub. A pull request will notify other
 developers that you want to add changes to the main branch. They will review
