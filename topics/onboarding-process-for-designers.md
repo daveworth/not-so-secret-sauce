@@ -24,7 +24,7 @@ likewise.
 Download and install [RailsInstaller](http://www.railsinstaller.org/). It will
 install most of the tools we use.
 
-Be sure to watch the [http://vimeo.com/43823464](introductory video). While
+Be sure to watch the [introductory video](http://vimeo.com/43823464). While
 not everything may yet make sense, it will help make sure you understand
 the basics of what you're installing.
 
@@ -32,7 +32,7 @@ the basics of what you're installing.
 
 Most of the applications we build are backed by the PostgreSQL database.
 
-Download and install [http://postgresapp.com/](Postgres.app).
+Download and install [Postgres.app](http://postgresapp.com).
 
 ## Accessing Projects
 
@@ -42,7 +42,7 @@ and designers working on the project can access.
 
 RailsInstaller (above) already installed Git for you, but there are a few more
 steps involved to getting setup with GitHub. Read over and complete the steps
-for [https://help.github.com/articles/set-up-git](setting up git), except *you
+for [setting up git](https://help.github.com/articles/set-up-git), except *you
 don't need to install Git as it's already been installed by RailsInstaller*.
 
 ## Running An App
