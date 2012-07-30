@@ -21,10 +21,10 @@ likewise.
 
 ### RailsInstaller
 
-Download and install [http://www.railsinstaller.org/](RailsInstaller). It will
+Download and install [RailsInstaller](http://www.railsinstaller.org/). It will
 install most of the tools we use.
 
-Be sure to watch the [introductory video](http://vimeo.com/43823464). While
+Be sure to watch the [http://vimeo.com/43823464](introductory video). While
 not everything may yet make sense, it will help make sure you understand
 the basics of what you're installing.
 
@@ -32,7 +32,7 @@ the basics of what you're installing.
 
 Most of the applications we build are backed by the PostgreSQL database.
 
-Download and install [Postgres.app](http://postgresapp.com/).
+Download and install [http://postgresapp.com/](Postgres.app).
 
 ## Accessing Projects
 
@@ -42,14 +42,14 @@ and designers working on the project can access.
 
 RailsInstaller (above) already installed Git for you, but there are a few more
 steps involved to getting setup with GitHub. Read over and complete the steps
-for [setting up git](https://help.github.com/articles/set-up-git), except *you
+for [https://help.github.com/articles/set-up-git](setting up git), except *you
 don't need to install Git as it's already been installed by RailsInstaller*.
 
 ## Running An App
 
 To make sure everything worked, try checking out our demonstration repository:
 
-    git clone https://github.com/highgroove/tacostand.git
+  git clone https://github.com/highgroove/tacostand.git
 
 Now you have a copy of the app `tacostand` on your computer. The application
 contains a `README.md` file, this file contains the all the instructions needed
@@ -70,17 +70,17 @@ developer should be able to help you solve your problem.
 It's important to make sure you stay up to date. Before you start work, make
 sure you have the latest code by typing this in Terminal:
 
-    git fetch origin
+  git fetch origin
 
 When working on design things it is often best to work in your own branch.
 Continuing with our tacostand example from above, assuming you are in your
 `tacostand` directory type:
 
-    git checkout -b "adding_styling_for_screens" origin/master
+  git checkout -b "adding_styling_for_screens" origin/master
 
 With this command you have created a new branch and checked it out. If type
 
-    git branch
+  git branch
 
 you will see all your branches and it will show you which branch you are
 working on.
@@ -97,15 +97,15 @@ production version of the application.
 First let's commit this file to our `adding_styling_for_screens` we are
 currently working on:
 
-    git add app/assets/stylesheets/screen.css
-    git commit -a "Adds some awesome new styles"
+  git add app/assets/stylesheets/screen.css
+  git commit -a "Adds some awesome new styles"
 
 When you're done adding styling, "push" your branch to GitHub (in this case
 Git knows GitHub as the "origin" repository):
 
-    # Note that this won't actually work on tacostand because you will not
-    # have authorization to push to that repository
-    git push origin adding_styling_for_screens
+  # Note that this won't actually work on tacostand because you will not
+  # have authorization to push to that repository
+  git push origin adding_styling_for_screens
 
 Finally, create a "pull request" on GitHub. A pull request will notify other
 developers that you want to add changes to the main branch. They will review
