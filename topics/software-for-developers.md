@@ -53,9 +53,9 @@ description: What we use to do what we do
 * [Minecraft](http://www.minecraft.net/)
 * [World of Warcraft](http://us.battle.net/wow/en/)
 
-<br/><a href="http://stackoverflow.com/questions/81272/mac-os-x-terminal-move-cursor-word-by-word">http://stackoverflow.com/questions/81272/mac-os-x-terminal-move-cursor-word-by-word</a><br/><br/>
+&#x20;<br/><a href="http://stackoverflow.com/questions/81272/mac-os-x-terminal-move-cursor-word-by-word">http://stackoverflow.com/questions/81272/mac-os-x-terminal-move-cursor-word-by-word</a><br/><br/>
 
 ###Vim Tech Talk:
-<iframe src="http://player.vimeo.com/video/33166409?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">&nbsp;</iframe>
+&#x20;<iframe src="http://player.vimeo.com/video/33166409?title=0&amp;byline=0&amp;portrait=0&amp;color=e61515" width="600" height="375" frameborder="0">&nbsp;</iframe>
 
 [Show me more videos!](http://vimeo.com/highgroove/videos)
