@@ -112,6 +112,8 @@ seems to be much more well-known and supported these days.
   integration tests
 * [Spork](https://github.com/sporkrb/spork): a non-ideal, but sometimes
   pragmatic, solution to slow tests
+* [Spin](https://github.com/jstorimer/spin/): a less obtrusive alternative to Spork
+* [TConsole](https://github.com/commondream/tconsole): kind of like Spork or Spin, but exclusively for minitest or test/unit
 
 ### The Cloud
 
