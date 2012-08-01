@@ -39,6 +39,7 @@ description: What we use to do what we do
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * F.lux
 * Fluid (PivotalTracker, LetsFreckle)
+* [Propane](http://propaneapp.com/)
 * Source Control
   * [GitX](http://gitx.laullon.com/)
   * [SourceTree](http://www.sourcetreeapp.com/)
