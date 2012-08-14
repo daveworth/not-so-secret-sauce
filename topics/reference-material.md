@@ -9,6 +9,7 @@ resources from introductory tutorials through advanced reference materials.
 
 ## General Programming Awesomeness:
 * [Code Katas](http://codekata.pragprog.com/2007/01/code_kata_backg.html#more)
+* [Project Euler](http://projecteuler.net/)
 
 ## Ruby and Ruby on Rails Tutorials / Walk Throughs:
 * [Ruby Monk](http://rubymonk.com/)
@@ -19,6 +20,8 @@ resources from introductory tutorials through advanced reference materials.
 * [Railscasts](http://railscasts.com/)
 * [Rails for Zombies](http://railsforzombies.org/)
 * [Programming Mofo](http://programming-motherfucker.com/become.html#Ruby)
+* [Ruby Quiz](http://rubyquiz.com/)
+* [Ruby Learning Blog](http://rubylearning.com/)
 
 ## API / Reference:
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/)
