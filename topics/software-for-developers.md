@@ -48,6 +48,7 @@ description: What we use to do what we do
   * [SequelPro](http://www.sequelpro.com/)
   * [MongoHub](http://mongohub.todayclose.com/)
 * Vagrant
+* [Nisus Thesaurus](http://itunes.apple.com/us/app/nisus-thesaurus/id471448642?mt=12)
 
 ###And Of Course:
 * [Minecraft](http://www.minecraft.net/)
