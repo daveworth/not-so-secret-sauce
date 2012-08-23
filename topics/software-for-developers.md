@@ -19,6 +19,7 @@ description: What we use to do what we do
   * MacVim
   * TextMate (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
   * Emacs
+  * vim
   * [Sublime Text] (http://sublimetext.com/2)
 * `$RUBY_MANAGER`
   * [rvm](https://rvm.beginrescueend.com/rvm/install/)
@@ -35,6 +36,7 @@ description: What we use to do what we do
 * Clipboard mangement (Jumpcut or Clipmenu or Alfred)
 * [Growl](http://growl.info/)
 * [MailPlane](http://mailplaneapp.com/new_index) (or stick to Mail.app)
+* [Sparrow](http://sparrowmailapp.com)
 * [BusyCal](http://www.busymac.com/) (or stick to iCal)
 * [Caffeine](http://lightheadsw.com/caffeine/)
 * F.lux
