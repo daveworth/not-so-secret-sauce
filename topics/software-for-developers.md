@@ -12,6 +12,9 @@ description: What we use to do what we do
 * Apple Developer Tools / XCode
 * [Homebrew] (https://github.com/mxcl/homebrew)
 * Git
+* `$POSTGRES`
+  * brew install postgres
+  * [Postgres.app] (http://postgresapp.com)
 * `$SCREENSHOT_APP`
   * Skitch
   * Cloudapp
