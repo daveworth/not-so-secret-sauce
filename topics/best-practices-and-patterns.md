@@ -42,6 +42,9 @@ Github.
 Tools and patterns we like
 --------------------------
 
+First up, make sure you are following common style patterns in your code.
+[Github's Ruby Styleguide](https://github.com/styleguide/ruby) is a good place to start.
+
 ### Background Jobs
 
 Anything that may take more than a few hundred milliseconds (e.g.,
