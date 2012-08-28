@@ -101,8 +101,8 @@ Rekk or any other personal/religious/cultural/etc holiday, it's just like a
 vacation day and we'll see you when you get back.
 
 The office will be 'closed' each year for: Memorial Day, Independence Day,
-Thanksgiving Day and the following day, Christmas Day, New Years Day, and 3
-'floating' holidays that typically are used to make a long break for
+Labor Day, Thanksgiving Day and the following day, Christmas Day, New Years Day,
+and 3 'floating' holidays that typically are used to make a long break for
 Christmas/New Years.
 
 In 2012 this is:
