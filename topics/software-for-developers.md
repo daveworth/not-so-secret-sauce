@@ -50,8 +50,9 @@ description: What we use to do what we do
   * [SourceTree](http://www.sourcetreeapp.com/)
   * [GitHub.app](http://mac.github.com/)
 * Database Utilities
-  * [SequelPro](http://www.sequelpro.com/)
-  * [MongoHub](http://mongohub.todayclose.com/)
+  * [SequelPro](http://www.sequelpro.com/) (MySQL)
+  * [Induction](http://inductionapp.com/) (Postgres, MySQL, SQLite, Redis, MongoDB)
+  * [MongoHub](http://mongohub.todayclose.com/) (MongoDB)
 * Vagrant
 * [Nisus Thesaurus](http://itunes.apple.com/us/app/nisus-thesaurus/id471448642?mt=12)
 
