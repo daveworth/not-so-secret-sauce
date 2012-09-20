@@ -11,7 +11,7 @@ Experiments are the way to try things out when the outcome is uncertain. They go
 
 and if you are trying to effect change but you are not engineering, then you're not going to have a good time.
 
-# SMART Experiments.
+# SMART Experiments
 
 First up, what are you trying to accomplish? Hopefully it is <a href="http://en.wikipedia.org/wiki/SMART_criteria">SMART</a> (to you at least). Experiments should test an idea in a SMART way.
 
