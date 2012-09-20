@@ -4,7 +4,7 @@ title: Hiring Developers
 description: How to Hire Developers
 ---
 
-##Hiring is Important
+# Hiring is Important
 
 Hiring is hard.  Good companies hire slow, and fire fast.
 
