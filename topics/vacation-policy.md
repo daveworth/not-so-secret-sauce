@@ -111,5 +111,5 @@ In 2012 this is:
 * Monday, May 28 Memorial Day
 * Wednesday, July 4 Independence Day
 * Monday, September 3 Labor Day
-* Thursday, November 22 Thanksgiving Day
+* Thursday, November 22 Thanksgiving Day and Friday, November 23
 * Tuesday, December 25 Christmas Day
