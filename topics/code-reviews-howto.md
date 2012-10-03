@@ -14,9 +14,7 @@ We do these for several reasons:
 * Sharing knowledge of projects keeps all developers in the know (avoids
   hit-by-bus scenario)
 * Code Reviews exercise the mind and keep us all writing similar, idiomatic
-  code. See: <a
-  href=">http://napkin.highgroove.com/articles/2011/02/06/cowboy-girl-programmers-dont-live-here">cowboy/girl
-  programmers don't live here</a>
+  code. See: <a href="http://highgroove.com/articles/2011/02/06/cowboy-girl-programmers-dont-live-here.html">cowboy/girl programmers don't live here</a>
 
 ## I'm new here!
 
