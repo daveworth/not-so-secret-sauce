@@ -6,23 +6,23 @@ description: What we use to do what we do
 
 ##Required
 
-* Google Chrome
-* Mozilla Firefox
-* Skype
-* Apple Developer Tools / XCode
+* [Google Chrome] (http://www.google.com/chrome)
+* [Mozilla Firefox] (http://www.mozilla.org/en-US/firefox/)
+* [Skype] (http://www.skype.com/)
+* [Apple Developer Tools / XCode] (http:/connect.apple.com/)
 * [Homebrew] (https://github.com/mxcl/homebrew)
-* Git
+* [Git] (http://git-scm.com/)
 * `$POSTGRES`
   * brew install postgres
   * [Postgres.app] (http://postgresapp.com)
 * `$SCREENSHOT_APP`
-  * Skitch
-  * Cloudapp
+  * [Skitch] (http://skitch.com/)
+  * [Cloudapp] (http://getcloudapp.com/)
 * `$EDITOR` 
-  * MacVim
-  * TextMate (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
-  * Emacs
-  * vim
+  * [MacVim] (http://code.google.com/p/macvim/)
+  * [TextMate] (http://macromates.com/) (with plugin: http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus)
+  * [Emacs] (http://www.gnu.org/software/emacs/)
+  * [vim] (http://www.vim.org/)
   * [Sublime Text] (http://sublimetext.com/2)
 * `$RUBY_MANAGER`
   * [rvm](https://rvm.beginrescueend.com/rvm/install/)
@@ -36,14 +36,17 @@ description: What we use to do what we do
   * [1Password](https://agilebits.com/onepassword)
   * [KeePassX](http://www.keepassx.org/)
 * [Dropbox](http://www.dropbox.com/)
-* Clipboard mangement (Jumpcut or Clipmenu or Alfred)
+* Clipboard mangement
+  * [Jumpcut] (http://jumpcut.sourceforge.net/) 
+  * [Clipmenu] (http://www.clipmenu.com/)
+  * [Alfred] (http://www.alfredapp.com/)
 * [Growl](http://growl.info/)
 * [MailPlane](http://mailplaneapp.com/new_index) (or stick to Mail.app)
 * [Sparrow](http://sparrowmailapp.com)
 * [BusyCal](http://www.busymac.com/) (or stick to iCal)
 * [Caffeine](http://lightheadsw.com/caffeine/)
-* F.lux
-* Fluid (PivotalTracker, LetsFreckle)
+* [F.lux] (http://stereopsis.com/flux/)
+* [Fluid] (http://fluidapp.com/) (PivotalTracker, LetsFreckle)
 * [Propane](http://propaneapp.com/)
 * Source Control
   * [GitX](http://gitx.laullon.com/)
