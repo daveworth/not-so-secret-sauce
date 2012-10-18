@@ -98,7 +98,7 @@ First let's commit this file to our `adding_styling_for_screens` we are
 currently working on:
 
     git add app/assets/stylesheets/screen.css
-    git commit -a "Adds some awesome new styles"
+    git commit -m "Adds some awesome new styles"
 
 When you're done adding styling, "push" your branch to GitHub (in this case
 Git knows GitHub as the "origin" repository):
