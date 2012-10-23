@@ -8,17 +8,19 @@ description: Our internal security audit process and methodology
 
 # Overview
 
-We take application security very seriously.  The good news is that Ruby on
-Rails does as well and if developers follow the well documented
+## Process
+
+At Highgroove we take application security very seriously.  The good news is
+that Ruby on Rails does as well and if developers follow the well documented
 [best-practices](http://guides.rubyonrails.org/security.html) in the field it is
 very difficult to introduce the majority of security vulnerabilities that plague
 other platforms and frameworks.  There are trade-offs of course, and as
 applications become more sophisticated the more powerful the tools that are
 brought to bear on the problem.  With that sophistication comes more potential
 for subtle security bugs to creep in.  To prevent that we perform standard
-  security audits to catch such subtleties before they are put into production.
+security audits to catch such subtleties before they are put into production.
 
-## High-level audit process:
+### High-level audit process:
 * Audit with [Brakeman](http://brakemanscanner.org/) - this scanner analyzes and
   application and determines if "standard", often rails specific, security
   vulnerabilities are present.
@@ -34,7 +36,8 @@ for subtle security bugs to creep in.  To prevent that we perform standard
   `attr_protected`.
 
 * Audit scopes, and scope "helpers" (such as Squeel/Metawhere), for insecure
-  use issues which may have been missed by Brakeman.
+  use issues which may have been missed by Brakeman.  If MetaWhere is used,
+  audit usage of `assoc_(un)searchable`.
 
 * Audit authentication and authorization-controls
 
@@ -42,8 +45,8 @@ for subtle security bugs to creep in.  To prevent that we perform standard
     with it.
 
   * Authentication:
-    * If the project uses `has_secure_password` we're pretty.
 
+    * If the project uses `has_secure_password` we're pretty happy.
     * If the project is using Devise or another system, analyze its use for
       common security issues.
 
@@ -51,25 +54,40 @@ for subtle security bugs to creep in.  To prevent that we perform standard
 
     * If the application is using CanCan make sure cascading `cannot`s override
       existing `can`s.
+    * If the application is using another Authorization system examine its
+      controls
 
-* Audit extra-ORM datastores (such as S3/scribd/etc) for security concerns
+* Audit routes for correct HTTP verb usage, particularly in `match` definitions.
+
+* Audit extra-ORM datastores (such as S3/Scribd/etc) for security concerns
   which may affect the business needs of the customer.  We are not experts in
   the regulatory side of things (HIPAA, FERPA, etc.) but will endeavor to engage
   experts in that field if needs-be.
 
-* Audit sessions for their use within the app.
+* Audit sessions for their use within the application.
 
-* Report. We focus on openness regarding the results of our audits and inform
+* Audit schema to determine if sensitive data is being stored.
+    * Audit logging and verify that sensitive data is filtered before being logged.
+
+* Audit explicit calls to `Object#send` for user controlled parameters
+
+* Misc
+    * Report security issues unique to a given project due to their domain.
+    * Report technical issues which may not be of a security nature. e.g. lack
+      of README or other documentation, a lack of tests, etc.
+
+* Report - We focus on openness regarding the results of our audits and inform
   the customer(s) immediately of any results.  If there are any questions please
   just ask!
 
   * Address each phase of the audit above
 
   * Address non-security issues noticed during the review.  This phase is
-    fairly similar to our [code-review process](http://not-so-secret-sauce.highgroove.com/topics/code-reviews-howto.html)
+    fairly similar to the Highgroove [code-review process](http://not-so-secret-sauce.highgroove.com/topics/code-reviews-howto.html)
 
 * Any bugs discovered in any audit tool or libraries discovered during the
-  audit, are reported to the authors and sometimes patched.  We
-  take our responsibility to open-source very seriously and we work to
+  audit, are reported to the authors and sometimes patched.  Highgroove
+  takes its responsibility to open-source very seriously and we work to
   improve the tools we use when we can.  This work is not done on client
-  time but rather as part of our internal work to contribute back.
+  time but rather as part of our internal work to contribute back to the
+  community.
