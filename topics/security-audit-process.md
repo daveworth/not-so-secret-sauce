@@ -68,15 +68,15 @@ security audits to catch such subtleties before they are put into production.
 
 * Audit schema to determine if sensitive data is being stored.
 
-    * Audit logging and verify that sensitive data is filtered before being logged.
+  * Audit logging and verify that sensitive data is filtered before being logged.
 
 * Audit explicit calls to `Object#send` and `Object#__send__` for user controlled parameters
 
 * Misc
 
-    * Report security issues unique to a given project due to their domain.
-    * Report technical issues which may not be of a security nature. e.g. lack
-      of README or other documentation, a lack of tests, etc.
+  * Report security issues unique to a given project due to their domain.
+  * Report technical issues which may not be of a security nature. e.g. lack
+    of README or other documentation, a lack of tests, etc.
 
 * Report - We focus on openness regarding the results of our audits and inform
   the customer(s) immediately of any results.  If there are any questions please
