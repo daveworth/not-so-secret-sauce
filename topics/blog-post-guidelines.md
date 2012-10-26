@@ -17,7 +17,7 @@ intro](http://highgroove.com/articles/2008/01/22/web-app-service-plan-subscripti
 in which he talks about Blink - but by the end, everything should be clear and
 concise.
 
-## Keep it Simple
+## Keep it simple
 
 The post should be simple. It should not try and take on too many ideas at once.
 If you have lots of ideas for one post, save them for new posts!
@@ -75,7 +75,9 @@ We peer review software, so we also peer review blog posts. When you deliver a
 blog post, commit it with the published flag set to false and let the marketing manager know. Then the marketing manager will review your post, make comments and changes, and then submit to the rest of the team for a final review. 
 
 If the review will take place in Github, make sure you commit your post with the content line wrapped (your editor should be able to do this for you easily) so that your reviewer
-can easily read the post and comment on specific lines. Prose.io is another option for submitting and editing posts.
+can easily read the post and comment on specific lines. Prose.io is another option for submitting and editing posts. 
+
+*Note that if you use Prose to edit, you should avoid apostrophes in your file name. Prose hates apostrophes in file names and won't allow access to your post. Do your team a favor and avoid them if you can.*
 
 Whoever accepts your story will also be responsible for setting it to
 published and deploying it to the tubes.
