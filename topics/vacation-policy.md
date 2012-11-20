@@ -12,8 +12,11 @@ Unlimited! *How little?* Enough to keep you energized and happy!
 
 In order to accommodate vacations (if you don't want to be responsible for
 results during that time) we require that you give us 4-6 weeks notice. Please
-send vacation notices to the Office Manager AND indicate your vacation in the
-company vacation calendar.
+ensure that your vacation is marked as a result in ROWEapp on the Vacation project
+in such a way that it shows up on capacity planning (Must have work points and
+be on a Wed-Tues date range, even if you are only gone a day or two), indicate
+your lack-of-availability on the Staff calendar, and let your Client Advocate know that
+you will be out.
 
 Remember, you can work from anywhere anytime you want. You don't have to take
 vacation to go to the beach! You are still responsible for being an "A" player
@@ -46,8 +49,8 @@ First and foremost, talk to your client(s). You could:
 * Take a last-minute vacation and don't work at all. The client will be billed
   for a reduced strength iteration, and you will not be responsible for working
   while on your trip. This is only acceptable if your client is 100% OK with a
-  reduced strength iteration! Let the office manager know that the client
-  should be billed less.
+  reduced strength iteration! Update ROWEapp to show that you worked less for
+  this result so that the client will be billed correctly.
 * Take a last-minute vacation and work some. The client will be billed for a
   reduced strength iteration (e.g. you are "out" on W/R/F, but only take 1 day
   of vacation because you'll get done 2 days of work). This is only acceptable
@@ -71,7 +74,7 @@ last minute.
 
 Unlimited within reason. Everyone gets sick, doesn't feel well, or can't
 perform at 100%, all the time. In order to communicate with clients and adjust
-expectations, please notify Client(s) and the Office Manager as soon as
+expectations, please notify Client(s) and possibly your Client Advocate as soon as
 possible so we can alter the results (both billing and expected output).
 
 PTO is not tracked according to our ROWE policy. We expect you to manage your
@@ -96,7 +99,7 @@ only thing this really matters for is billing/invoicing (e.g. we don't expect
 clients to mail us checks on Memorial Day).
 
 As far as you are concerned, all the same rules apply, let your Client(s) and
-Office Manager know, and be reasonable! If you'd like to take a holiday for Kal
+Client Advocate know, and be reasonable! If you'd like to take a holiday for Kal
 Rekk or any other personal/religious/cultural/etc holiday, it's just like a
 vacation day and we'll see you when you get back.
 
