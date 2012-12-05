@@ -1,16 +1,16 @@
 # Not So Secret Sauce
 
-We realized that at [Highgroove](http://highgroove.com), some of the
+We realized that at [Big Nerd Ranch](http://bignerdranch.com), some of the
 documentation we provide to developers that helps them do their jobs better
 wasn't really our "secret sauce."
 
 This repository, and its deployed counterpart at
-<http://not-so-secret-sauce.highgroove.com/> is the result of making that
+<http://not-so-secret-sauce.bignerdranch.com/> is the result of making that
 material public. We hope it helps you be a better developer!
 
-## Site Quickstart
+## Site Quickstart 
 
-### Ruby
+### Ruby 
 
 The site runs on Ruby 1.9.2. If using rvm ...
 
@@ -20,7 +20,7 @@ The site is configured to use a gemset; create one and switch to it ...
 
     rvm gemset use 1.9.2@not-so-secret-sauce --create
 
-### Jekyll
+### Jekyl l
 
 The site uses the [Jekyll static site
 generator](https://github.com/mojombo/jekyll) installed via bundler. Install
@@ -42,10 +42,10 @@ The site runs by default at <http://localhost:4000/>
 This repository does not have a `master` branch like most git repositories;
 instead, commits are added to the `gh-pages` branch so the site deploys
 correctly to [GitHub Pages](http://pages.github.com).
-
+ 
 ### GitHub
 
-As a Highgroover ...
+As a Big Nerd Rancher ...
 
 1. Clone the repository
 2. Make changes (add a topic, touch some styling, etc.)
@@ -57,7 +57,7 @@ As an open source contributor ...
 1. [Fork the repository](http://help.github.com/fork-a-repo/)
 2. Branch off of or commit directly to the `gh-pages` branch
 3. [Send a pull request](http://help.github.com/send-pull-requests/)
-
+ 
 ## Contribution Guidelines
 
 How do we decide what goes on the page?
@@ -67,7 +67,7 @@ How do we decide what goes on the page?
 To decide if a contribution belongs here, or in a blog post, or in a private
 document there are a few questions to be asked:
 
-Does the content give Highgroove, or a contributor's employer/company, a
+Does the content give Big Nerd Ranch, or a contributor's employer/company, a
 business advantage over other companies or does the content simply make the
 life of a developer or other developer better? In the prior case add the
 documentation to the intranet to keep business rolling. In the latter case add
@@ -94,11 +94,11 @@ clarity are as important as content. If there is code inline make sure your
 gist is of the correct language type so that syntax highlighting makes the most
 of your contribution.
 
-In places where content is Highgroove, or contributor, -specific use your best
+In places where content is Big Nerd Ranch, or contributor, -specific use your best
 judgement in terms of whether or not to name them in the content or omit them
 by replacing their name with a generic pronoun.
-
-## Site Details
+ 
+# # Site Details
 
 ### Twitter Bootstrap 2.0
 
