@@ -11,6 +11,10 @@ resources from introductory tutorials through advanced reference materials.
 * [Code Katas](http://codekata.pragprog.com/2007/01/code_kata_backg.html#more)
 * [Project Euler](http://projecteuler.net/)
 
+## Making Great Apps:
+* [OS X Human Interface Guidelines](http://developer.apple.com/library/mac/#documentation/UserExperience/Conceptual/AppleHIGuidelines/Intro/Intro.html)
+* [iOS Human Interface Guidelines](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/AppDesign/AppDesign.html#//apple_ref/doc/uid/TP40006556-CH19-SW1)
+
 ## Ruby and Ruby on Rails Tutorials / Walk Throughs:
 * [Ruby Monk](http://rubymonk.com/)
 * [Ruby Koans](http://rubykoans.com/)
