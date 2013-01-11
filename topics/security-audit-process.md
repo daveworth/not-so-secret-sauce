@@ -93,3 +93,26 @@ security audits to catch such subtleties before they are put into production.
   improve the tools we use when we can.  This work is not done on client
   time but rather as part of our internal work to contribute back to the
   community.
+
+## Keeping up with Ruby and Ruby on Rails security issues
+
+There are a number of good resources to stay abreast of the state of Ruby, and
+Ruby on Rails security.  Both the Ruby and Ruby on Rails communities follow, and
+recommend, a responsible disclosure policy such that patches can be delivered
+before exploits are publicly available in the wild.
+
+### Ruby on Rails
+
+* We closely monitor the Ruby on Rails [security mailing list](https://groups.google.com/forum/?fromgroups#!forum/rubyonrails-security),
+  and recommend that all Ruby on Rails developers do the same.
+
+* [PentesterLab.com](https://www.pentesterlab.com) often releases
+  Rails-centric [exercises](https://www.pentesterlab.com/exercises) which help
+  Rails developers to understand vulnerabilities at a more granular level.
+
+### Ruby
+
+* The MRI has it's own list of [known security issues](http://www.ruby-lang.org/en/security/).
+* JRuby also maintains a list of [known security issues](http://jruby.org/security).
+* Rubinus does not have a clear security list they do track security related
+  [issues](https://github.com/rubinius/rubinius/issues?labels=security&page=1&state=open) on GitHub.
