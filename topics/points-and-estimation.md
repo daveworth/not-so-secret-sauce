@@ -71,7 +71,7 @@ other types of stories that we work on:
   prevent these, and tests to prevent any defects, but they crop up. Bugs do
   affect the velocity as time spent on them is not spent on features.
 
-The definitely of "Velocity" of a project that we use is the 3-iteration average
+The definition of "Velocity" of a project that we use is the 3-iteration average
 of points completed per iteration, which lets us estimate when future stories
 will be completed by. For example, if we're averaging 20 points per iteration
 and there are 40 points in your backlog, your project will likely be complete in
@@ -84,22 +84,29 @@ get the idea across. We'd probably split some of these up into more small
 stories.
 
 ## 1 Point:
+
 * Visitor visits home page, displays search fields
+
   * home page displays just the form HTML as outlined in wireframe here:
     example.com/html
   * simply displays two boxes and submits data to server
 
 ## 2 Point:
+
 * When user submits Report your Time form, it saves the results for the Office
+
 * When a User selects: screen name, the time, their mood
+
   * the form shows the current time
   * the application saves the data attached to the provider
   * takes user to details for provider
   * The system saves the results for the provider, tied to the office.
 
 ## 3 Point:
+
 * A user can search for offices based on location, provider name, and provider
   type
+
   * A Sphinx index provides Geolocational searches, filtering by provider
     category, and optional Office and Provider name as search terms
   * New and updates to existing Offices and Providers update the index instantly
