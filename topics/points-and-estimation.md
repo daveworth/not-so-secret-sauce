@@ -71,7 +71,7 @@ other types of stories that we work on:
   prevent these, and tests to prevent any defects, but they crop up. Bugs do
   affect the velocity as time spent on them is not spent on features.
 
-The definitely of "Velocity" of a project that we use is the 3-iteration average
+The definition of "Velocity" of a project that we use is the 3-iteration average
 of points completed per iteration, which lets us estimate when future stories
 will be completed by. For example, if we're averaging 20 points per iteration
 and there are 40 points in your backlog, your project will likely be complete in
