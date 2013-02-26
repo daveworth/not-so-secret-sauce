@@ -84,22 +84,29 @@ get the idea across. We'd probably split some of these up into more small
 stories.
 
 ## 1 Point:
+
 * Visitor visits home page, displays search fields
+
   * home page displays just the form HTML as outlined in wireframe here:
     example.com/html
   * simply displays two boxes and submits data to server
 
 ## 2 Point:
+
 * When user submits Report your Time form, it saves the results for the Office
+
 * When a User selects: screen name, the time, their mood
+
   * the form shows the current time
   * the application saves the data attached to the provider
   * takes user to details for provider
   * The system saves the results for the provider, tied to the office.
 
 ## 3 Point:
+
 * A user can search for offices based on location, provider name, and provider
   type
+
   * A Sphinx index provides Geolocational searches, filtering by provider
     category, and optional Office and Provider name as search terms
   * New and updates to existing Offices and Providers update the index instantly
