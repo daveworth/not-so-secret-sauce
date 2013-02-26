@@ -54,8 +54,6 @@ done asynchronously using a job queue.
 * [Sidekiq](https://github.com/mperham/sidekiq)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 
-Rails 4.0 will support a [generic queuing mechanism](https://github.com/rails/rails/commit/602000be90e9935f4f4ee5acc096725d7b7c33e5).
-
 ### Code Coverage Tools 
 
 * [SimpleCov](https://github.com/colszowka/simplecov)
