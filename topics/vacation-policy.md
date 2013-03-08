@@ -5,18 +5,16 @@ title: Vacation Policy
 
 ## Vacation Time
 
-Vacation at Highgroove is __mandatory__. You must take time off. *How much?*
+Vacation at Big Nerd Ranch is __mandatory__. You must take time off. *How much?*
 Unlimited! *How little?* Enough to keep you energized and happy!
 
 ### *How does it work?*
 
 In order to accommodate vacations (if you don't want to be responsible for
 results during that time) we require that you give us 4-6 weeks notice. Please
-ensure that your vacation is marked as a result in ROWEapp on the Vacation project
-in such a way that it shows up on capacity planning (Must have work points and
-be on a Wed-Tues date range, even if you are only gone a day or two), indicate
-your lack-of-availability on the Staff calendar, and let your Client Advocate know that
-you will be out.
+ensure that your vacation is marked as a result in Stable on the Vacation project
+in such a way that it shows up on capacity planning and you do not appear as 
+'overbooked', and let your Client Advocate know that you will be out.
 
 Remember, you can work from anywhere anytime you want. You don't have to take
 vacation to go to the beach! You are still responsible for being an "A" player
