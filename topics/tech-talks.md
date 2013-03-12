@@ -36,11 +36,11 @@ description: Tech-Talks - What?  When?  Where? How?
 * Repeat questions from the audience so that they can be heard in the recording.
 * Make sure someone is recording the talk.
 
-# How to attend at Highgroove
+# How to attend at Big Nerd Ranch
 
-* Check the [Tech Talks page](http://highgroove.com/tech_talks.html) on our website.
+* Check the [Big Nerd Ranch Learn](http://learn.bignerdranch.com/)
 
-# Some Previous Topics at Highgroove
+# Some Previous Topics at Big Nerd Ranch
 
 * [New Ruby on Rails](https://vimeo.com/33167318) features and technologies:
   * Background workers in [IronWorker](https://vimeo.com/37828341)
@@ -69,7 +69,7 @@ description: Tech-Talks - What?  When?  Where? How?
   
   
 ## Lots of companies do these
-* [Highgroove Studios](vimeo.com/highgroove/videos)  (us!)
+* [Big Nerd Ranch](vimeo.com/bignerdranch/videos)  (us!)
 * [Google](http://www.youtube.com/user/GoogleTechTalks/featured)
 * [Pivotal Labs](http://pivotallabs.com/talks)
 * [Facebook Engineering](https://www.facebook.com/Engineering/app_260691170608423)
