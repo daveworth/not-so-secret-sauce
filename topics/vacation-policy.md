@@ -13,7 +13,7 @@ Unlimited! *How little?* Enough to keep you energized and happy!
 In order to accommodate vacations (if you don't want to be responsible for
 results during that time) we require that you give us 4-6 weeks notice. Please
 ensure that your vacation is marked as a result in Stable on the Vacation project
-in such a way that it shows up on capacity planning and you do not appear as 
+in such a way that it shows up on capacity planning and you do not appear as
 'overbooked', and let your Client Advocate know that you will be out.
 
 Remember, you can work from anywhere anytime you want. You don't have to take
@@ -47,7 +47,7 @@ First and foremost, talk to your client(s). You could:
 * Take a last-minute vacation and don't work at all. The client will be billed
   for a reduced strength iteration, and you will not be responsible for working
   while on your trip. This is only acceptable if your client is 100% OK with a
-  reduced strength iteration! Update ROWEapp to show that you worked less for
+  reduced strength iteration! Update Stable to show that you worked less for
   this result so that the client will be billed correctly.
 * Take a last-minute vacation and work some. The client will be billed for a
   reduced strength iteration (e.g. you are "out" on W/R/F, but only take 1 day
