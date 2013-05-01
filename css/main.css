@@ -1,6 +1,14 @@
 /* overrides and new styles only */
 
 /* This can be greatly simplified via Compass. Talk to Steven. */
+#github-container
+{
+  overflow: hidden;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  height: 150px;
+}
 #github
 {
   height: 30px;
